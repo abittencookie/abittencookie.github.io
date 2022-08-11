@@ -1,0 +1,4 @@
+
+[B]Autoplay Next Episode[/B]
+
+If you set 'Autoplay First Relevant Result' in Settings-->Playback-->Playback, then you will see an 'Autoplay Next Episode' setting appear. Select that and Ezra will fetch results for the next episode of the TV Show you are watching, and begin playing it once the current episode has ended. In settings you can have Ezra check with you after a certain number of episodes to see if you are still there watching. This is a built-in feature of Ezra, so there is no need to install the UpNext add-on to begin your binge-watch session. Try it out to see...

@@ -1,0 +1,25 @@
+Below is a list of supplied hoster providers.
+
+* denotes enabled by default
+
+WORKING
+============================================
+
+
+
+NOT WORKING
+============================================
+
+300MBFilms
+Max-RLS - Cloudflare protected
+My Video Link
+RapidMoviez
+Release BB - url changed for UK/AUS 9/5/22
+Scene Release
+
+
+
+REMOVED
+============================================
+
+

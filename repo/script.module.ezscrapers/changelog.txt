@@ -1,0 +1,18 @@
+[B]Please utilize Tips (Tools->Tips for Use) to catch up on any changes and fixes
+
+[B][COLOR dodgerblue]0.1.2[/COLOR][/B]
+[B][COLOR dodgerblue]--[/COLOR][/B] Nyaa scraper improved for Anime (Thanks NearbyYak) 
+[B][COLOR dodgerblue]--[/COLOR][/B] 
+
+0.1.1 - Rollback to 0.0.9 - Torrentio will be modified in future update
+0.1.0 - Alternative TorrentIO scraper by GeorgeW21
+0.0.9 - Gdrive Deprecate - glodls now blocked in UK, proxy in use
+0.0.9 - Gdrive Deprecate - glodls now blocked in UK, proxy in use
+0.0.8 - Scraper Info template added, default scrapers tidied
+0.0.7 - Settings updated indicating providers needing vpn in the UK
+0.0.6 - Limetorrents, EZTV, updated URLS / Help > Torrent Info fully updated, reworked
+0.0.5 - Changelogs restored
+0.0.4 - Removal of remaining Fenom Strings
+0.0.3 - More cleanup
+0.0.2 - Started cleanup
+0.0.1 - Forked from Fen - New API keys for TMDB and Trakt / New Artwork

@@ -1,0 +1,15 @@
+[B]Please utilize Tips (Tools->Tips for Use) to catch up on any changes and fixes
+
+[COLOR dodgerblue][B]2.0.9[/B][/COLOR]
+
+[COLOR dodgerblue][B]--[/B][/COLOR] Gdrive Fix (UmbrellaPlug)
+[COLOR dodgerblue][B]--[/B][/COLOR]  
+
+2.0.8 - Option for user to add their own Trakt API Keys (Thanks to UmbrellaPlug). Note, if you wish to use your own API key you must first revoke Trakt permission to then re-auth with personal keys.
+2.0.7 - Readme updated, removed "ezra" from text
+2.0.6 - Nothing exciting
+2.0.5 - My accounts icon return for sharing with other addons and new fanart
+2.0.4 - GDrive deprecated
+2.0.3 - Changelogs restored
+2.0.2 - Cleanup of all "Fenom" related strings and code
+2.0.1 - Forked from Fen - New API keys for TMDB and Trakt / New Artwork

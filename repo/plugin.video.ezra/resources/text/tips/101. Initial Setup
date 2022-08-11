@@ -1,0 +1,42 @@
+
+[B]Ezra is a fork of the now abandoned Fen add-on, but, it continues to use the same my-accounts module so there may be issues if you are using old versions of either Venom or Fen on your system. - The addon may also clash with other Fen forks that use the same my-accounts module.[/B]
+
+INSTALLATION
+============
+
+1. Uninstall any versions of Fen or Venom from your Kodi install including the following addons
+
+plugin.video.fen
+plugin.video.venom
+script.module.fenomscrapers
+script.module.myaccounts
+
+2. Go into System > Add-ons > Dependancies and remove the TikiArt module
+
+3. Reboot your system
+
+4. Add the source https://ezra-hubbard.github.io to your file manager. Then Addons > Install from zip > and choose the ezra location and install our repository
+
+5. Install from repository and install the Ezra addon
+
+
+SETUP
+=====
+
+1. Go into the Ez Accounts module and add your various accounts. At the minimum you will want to link your Trakt account and at least one Debrid service
+
+Note: Since 0.1.6 you can now use your own Trakt API keys. If you have previously authorised Trakt you will need to revoke authorisation to get the "personal API" option to appear. 
+
+2. Go into the Ez Scrapers module, and under Scraper Accounts select the "(Re)Sync with my accounts" option
+
+3. Also in the Ez Scrapers module select or deselect any scrapers you wish / do not wish to use. The most optimal are set as default but depending on region you may wish to add some or disable ones that require VPN (In the UK for example)
+
+4. Open Ezra settings, and under Meta Accounts select "(Re)Sync Ezra with My Accounts" and hit "Ok"
+
+5. Open Ezra, navigate to "Tools" > "Clean Database and Clean Settings Files" > "CLEAR ALL CACHE"
+
+6. If you are using an Amazon Fire device some users have reported a reboot is beneficial at this point
+
+7. Finally, to ensure the Repository updates automatically head to the Ezra repo and manually update/install the repository from the repo version. 
+
+Ezra is now all set up. Enjoy. 

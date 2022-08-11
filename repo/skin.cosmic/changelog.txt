@@ -1,0 +1,386 @@
+1.0.65
+    Fixed: Background trailers are not stopped when losing focus
+    Removed: fancy-line.png from Classic layout
+    Fixed: Height of plot in showcase
+1.0.64
+    Removed Xmas wishes
+1.0.63
+    Little thing for Christmas:)
+1.0.62
+    Added: Option to disable bars in new Classic layout
+1.0.61
+    Fixed: Temporary fix for continuously popping up MediaMenu when using mouse
+    Fixed: Background movement when focusing over weather/settings widget in Classic layout
+1.0.60
+    Fixed: Menu behavior with icons only menu style
+    Improved: Animations time in Classic layout
+    Fixed: Spacing in Classic layout
+    Added: Left margin to Flix spotlight
+    Changed: MediaMenu appearance
+1.0.59
+    Changed: Classic layout
+    Changed: Diffuse for different aspect ratios
+    Added: ColorOverlay to different aspect ratios background color
+    Removed: Divider from info line
+    Improved: Menu behavior in Classic layout
+    Fixed: Clearlogo in Classic layout
+    Added: Fanart animation to Classic layout when Flix spotlight is active
+1.0.58
+    Fixed: Triggering Flix Spotlight onback
+1.0.57
+    Changed: Background aspect ratio
+    Fixed: Auto close PVR Channel Guide
+1.0.56
+    Fixed: Items not being playable when Flix spotlight is disabled
+    Improved: Horizontal layout
+1.0.55
+    Fixed: Displayed title in Horizontal layout
+    Fixed: PVR channel guide modern visibility
+    Added: Animations to Horizontal layout
+1.0.54
+    Fixed: Chapters position in DialogSeekBar
+    Fixed: PlayerControl(Stop) condition when music is playing
+    Removed: Overlay under main menu from Classic layout
+    Changed: New Horizontal layout initial commit
+    Improved: Animation when leaving Flix Spotlight and trailer is playing
+    Improved: Flix Spotlight
+    Fixed: Hide unnecessary settings when Horizontal layout is used
+    Fixed: Bottom panel visibility in Horizontal layout
+    Fixed: Poster aspect ratio in Horizontal layout
+    Fixed: PVR showcase in Horizontal layout
+    Fixed: Widgets labels in Horizontal layout
+    Fixed: Disable Flix Spotlight for music content
+    Fixed: Background fanart dimensions in Horizontal layout
+    Fixed: Posters aspect ratio in Horizontal layout
+1.0.53
+    Changed: DialogPVRChannelsOSD appearance
+    Changed: DialogPVRChannelGuide appearance
+    Added: Shadow spot to Flix Spotlight for increasing readability when FS trailer playing
+    Fixed: Show shadow spot only when fullscreen trailer is playing
+    Added: Shadow spot to Flix Spotlight L2 for increasing readability when FS trailer playing
+1.0.52
+    Added: Dutch language (thanks to @djdirty60)
+    Fixed: Typo in "overlay playground"
+    Added: Liberation Sans as simpler font
+    Fixed: Freeze after opening Flix Spotlight when trailer is loading
+1.0.51
+    Improved: Flix Spotlight movie/tvshow functions performance
+    Removed: Background from main menu in Classic layout
+    Fixed: Play button in Flix Spotlight in some scenarios
+    Improved: More information tab in Flix Spotlight
+    Fixed: Closing the tag
+    Improved: Flix Spotlight
+    Added: Option to set alpha value for home screen independently
+    Fixed: Alpha value for other views than home screen
+    Fixed: Hide overlays in Vertical layout when blur is enabled
+    Added: Colored overlay for Flix spotlight in Vertical layout managed by global alpha value
+1.0.50
+    Fixed: Hide widget row when PlayTrailersFullScreen option is enabled
+    Fixed: Lag before sliding Flix Spotlight down when manually trailers are enabled
+    Added: New Live TV OSD look
+    Changed: New look of DialogSeekBar for LiveTV
+    Fixed: Channel logo size in new PRV OSD
+    Improved: New PVR OSD behavior
+1.0.49
+    Improved: Flix Spotlight animations
+    Added: Option to play background trailers in fullscreen
+    Fixed: Increased Animation Widget Slide limit
+    Fixed: Increased Widget label limit
+    Fixed: Max height of the widget rows
+1.0.48
+    Fixed: Close Flix Spotlight ondown action
+    Added: Netflix default entry to searchlist feature
+    Changed: Default font to Glory, removed Inter and ARIALUNI
+1.0.47
+    Fixed: Background trailers with Flix Spotlight triggered by select
+    Fixed: Background trailers when Flix Spotlight is disabled
+    Fixed: ColorsOverlay variable
+    Fixed: Stop video when exiting 1140 window
+    Fixed: Buttons in Flix Spotlight
+    Fixed: Enabled access to hidden menu in PVR Guide
+    Added: Action button to PVR widget in Flix Spotlight
+    Improved: Play button in Flix Spotlight
+    Added: Activate TV Channels and TV Guide buttons to Flix Spotlight in PVR widgets
+1.0.46
+    Added: Flix Spotlight for Classic layout
+    Fixed: Position of icons in main menu in Classic layout
+    Changed: Custom_1145_Similar layout to Flix view
+    Fixed: Clear properties
+    Fixed: Font size in PVR OSD clock
+    Fixed: Font size in Seeklabel
+    Improved: Buttons in Flix Spotlight
+    Fixed: Play and more episodes buttons in Flix Spotlight
+    Changed: Label of play button in first level of Flix Spotlight
+    Improved: Flix Spotlight
+    Added: Option to Trigger Flix Spotlight on select
+    Fixed: Temporary fix for manually starting trailer
+1.0.45
+    Fixed: Dont hide showcase option
+    Added: Plot overlay from Info Dialog
+    Changed: Custom_1102_TextViewer appearance
+    Fixed: Flix view info line and selection box visibility
+    Fixed: Colored overlay in Vertical layout
+    Added: Early version of Flix Spotlight
+    Added: Show match percentage even when no IMDb rating
+    Changed: Match info tag badge colour with highlight colour
+    Added: Option to Enable/Disable Flix Spotlight
+    Fixed: Dont enable Flix Spotlight in layouts other than Vertical
+    Fixed: Broken Info Dialog
+    Added: Language strings
+1.0.44
+    Fixed: Skinsettings IDs
+    Fixed: Fonts in buttons in DialogAddonInfo
+    Added: Option to manually start trailers
+1.0.43
+    Added: Option to disable clearlogo
+    Fixed: Posters border may disappear with Flixed scrolling
+    Fixed: Colored overlay in Vertical layout
+    Updated: Greek translation
+    Changed: Scrolltime in FileBrowser
+    Fixed: Posters aspect ratio in some view types
+    Added: Option to dont hide showcase and to disable notifications about no trailer when trailers play
+1.0.42
+    Added: Early version of Flixed scrolling
+    Updated: Greek translation
+    Improved: Colored background
+1.0.41
+    Fixed: Watched indicators in Flix view
+1.0.40
+    Fixed: DialogAddonInfo buttons background position
+    Added: Option to match colours of image on overlay
+    Added: New textures
+    Fixed: Vignette in Vertical layout
+    Fixed: Skin settings descriptions
+    Added: Ratings to Flix view
+    Improved: Flix view
+1.0.39
+    Fixed: Weather
+    Fixed: Default and Arial fonts
+    Removed: Roboto font
+    Fixed: Some tweaks to Fonts
+    Changed: Settings appearance
+    Added: Option to show EPG Event Icon on home screen
+    Tweaks: To DialogSelect window
+1.0.38
+    Fixed: Vignette visibility
+    Changed: DialogAddonInfo appearance
+    Changed: DialogFavourites appearance
+    Added: Greek translation (thanks to ViewAfterReview!)
+    Fixed: Dont show VideoQuality flag icon in favourites widget
+    Fixed: Hide system clock from weather and settings widget in vertical layout
+    Fixed: Vignette animation
+    Fixed: Watchlist button in Info Dialog
+    Removed: Left margin from widgets in Flix view
+    Changed: Viewtypes order
+    Fixed: DialogAddonInfo description background
+    Improved: DefaultBackground
+    Changed: Default font
+    Changed: InfoButtons position in Info Dialog
+1.0.37
+    Fixed: Background colour in Vertical layout
+    Added: Scrollbar to Flix view
+    Removed: Vignette from Flix view
+1.0.36
+    Fixed: SearchList feature
+1.0.35
+    Fixed: Small fix for background trailers
+    Fixed: SeekLabel position
+    Fixed: Some improvements to displaying title in home screen
+    Fixed: Width of title in item showcase
+    Added: Clock to vertical layout
+    Changed: Move main menu in Vertical layout higher when profile info is disabled
+    Changed: Vignette in Vertical layout
+    Changed: Fanart dimension
+    Added: Option to animate clearlogo when trailers playing
+    Added: New sources to ClearLogo variable
+    Fixed: Movement through main menu when profile info is disabled
+    Added: "Flix view" to library view types
+1.0.34
+    Improved: Background trailers
+1.0.33
+    Fixed: Poster image aspectratio in DialogVideoInfo
+    Fixed: Video title position in Video OSD
+    Added: Option to disable clock on top
+1.0.32
+    Changed: Plot variable
+    Changed: Position of PVR Progress bar in widget label
+    Added: PlotOutline
+    Fixed: Poster image in DialogVideoInfo
+    Changed: Dialog header title font
+    Added: Video OSD info line
+    Added: Options to hide Info tags and Plot
+1.0.31
+    Removed: Broken default entries in SearchList
+    Changed: Improvements for Info Line
+    Changed: Improvements for DialogContextMenu
+1.0.30
+    Changed: DialogKeyboard appearance
+1.0.29
+    Fixed: DialogBackgroundCommons bottom margin
+    Fixed: Menu Style logic
+    Changed: Appearance of dialog windows
+    Fixed: Background while playing videos/livetv
+1.0.28
+    Added: DialogBusy to SearchList
+    Fixed: Some colour highlights
+    Fixed: Landscape Art option
+    Changed: Appearance of dialog windows
+    Changed: DialogMediaSource appearance
+1.0.27
+    Added: Few extra icons
+    Changed: Reorganize skin settings
+    Removed: Rounded corners from some buttons
+    Added: Rounded corners to dialog windows
+    Fixed: Some language strings
+    Changed: File browser appearance
+    Changed: Weather appearance
+    Added: Animations to Weather and Settings widget in Vertical home layout
+    Fixed: Scrollbar in SkinSettings.xml
+    Fixed: Posters highlight
+    Fixed: Button type in script-skinshortcuts.xml
+    Fixed: SearchList layout
+1.0.26
+    Changed: Notification shadow position
+    Fixed: Watched indicators
+    Changed: Skin settings re-arrangement
+    Added: Polish language
+    Added: Custom SearchList feature
+    Fixed: Buttons colour in script-skinshortcuts.xml
+    Removed: Rounded corners from settings
+    Fixed: Some language strings
+1.0.25
+    Added: Pick fanart from first item in widget and set as background
+    Fixed: Optimization for loading poster textures
+    Fixed: Notifications
+1.0.24
+    Fixed: Some errors in DialogVideoInfo.xml
+    Changed: Watched overlay appearance
+    Fixed: Unwatched_movies playlist sort method
+    Fixed: Autoscroll plot and review option
+    Reformatted code using XML Lint
+1.0.23
+    Added: Fanart Aspect ratio
+    Added: YouTube videos to InfoDialog [need some fixes]
+    Fixed: Show selectionbox only for focused item in widgets on home screen
+    Added: Option to set Title colour
+    Added: New "kFanart" view type for library
+    Fixed: Corner image for watched indicators
+    Added: Option to manage watched indicators
+    Fixed: DialogGameControllers.xml
+    Fixed: Highlight colour in some labels
+    Changed: Submenu control type
+    Fixed: Shift View
+    Fixed: White spaces in Variables.xml
+    Fixed: Glitched side menu in MyMusicNav.xml
+1.0.22
+    Fixed: Recently added tv shows indicator
+    Fixed: Recently added movies indicator
+    Fixed: Don't open DialogVideoInfo.xml after clicking on TV Show in widget
+    Fixed: Some improvements in DialogVideoInfo.xml
+    Added: Indicators for home widgets
+    Added: Option to manage info-dialog lists
+    Changed: Make label in InfoButtons uppercase
+1.0.21
+    Fixed: Highlight colour in most cases
+    Added: Option to Enable/Disable colored background
+    Added: PlayerProcessInfo button
+    Fixed: Highlight colour on some labels
+1.0.20
+    Fixed: Submenu logic
+    Changed: InfoButton appearance
+    Fixed: Highlight colour in most cases
+    Fixed: Highlight colour in FileManager.xml
+    Fixed: Highlight colour in DialogNumeric.xml
+    Fixed: Highlight colour in DialogSlider.xml
+    Fixed: Open Info Dialog when clicking on TV Show in widget
+    Fixed: Object_Item_Showcase visibility
+    Added: Option to enable dark volume slider
+1.0.19
+    Added: Info label in top left corner with "Icons only" menu style
+    Added: Option to enable/disable clearlogo on Landscape aspect ratio
+    Added: Warning before removing Settings shortcuts
+    Fixed: Background trailers in some add-ons
+1.0.18
+    Changed: Horizontal Layout
+    Changed: Textures.xbt
+    Fixed: Icons position in "Icons only" menu style in Classic layout
+    Added: Information about selected layout
+    Added: Option to select type of widget scrolling
+    Fixed: Studio, Genre, Cast tags animations in Vertical layout
+    Fixed: Selection box position in widgets
+    Fixed: Multi image for background
+1.0.17
+    Fixed: Double ratings may appear in DialogVideoInfo.xml
+1.0.16
+    Fixed: Title width in Classic and Horizontal layouts
+    Added: Geometric pattern under EpgEventIcon
+    Added: Option to set overlay alpha value
+1.0.15
+    Added: EPGEventIcon in widgets to Horizontal and Classic layout
+    Changed: Default home layout to Classic instead of Vertical
+    Added: Progress bar to PVR widgets
+1.0.14
+    Fixed: Submenu animation in Classic layout
+    Fixed: Weird border around widgets in vertical layout
+    Fixed: Selectbox in DialogVideoInfo.xml
+1.0.13
+    Added: New Classic vertical home layout
+1.0.12
+    Changed: Cosmic section layout in SkinSettings.xml
+    Changed: LiveTV DialogSeekBar.xml appearance
+    Fixed: Online Ratings
+    Changed: Weather appearance
+    Added: Option to Enable/Disable weather on Topbar in Horizontal layout
+    Added: Option to hide Submenu in Horizontal layout
+1.0.11
+    Added: Option to set Global Background
+    Added: Option to Enable/Disable online ratings
+    Fixed: Lacks of highlight colours in some places [x2]
+    Added: Initial option to set background for each menu entry
+    Fixed: DialogBusy.xml when BG Trailers are enabled
+    Fixed: Background trailers condition
+    Added: Auto-completion for Virtual Keyboard
+    Fixed: Info Line Label about currently selected Episode in widgets
+1.0.10
+    Fixed: Set default selection box size if none is selected
+1.0.9
+    Added: Option to choose between Bold/Thin selection box sizes
+    Added: Info Line Label about currently selected Episode in widgets
+    Added: Option to set colours to Highlight
+    Experimental: Trailers in background feature
+1.0.8
+    Fixed: Widget label may not appear from 9th widget and above
+    Added: Cycle animation through Genre and Studio tags
+    Fixed: Height of Studio and Genre infos in Item showcase
+    Added: Watchlist button to DialogVideoInfo.xml and changed Manage button
+    Fixed: DialogExtendedProgressBar.xml
+1.0.7
+    Fixed: Some fixes to DialogExtendedProgressBar.xml
+    Changed: Buttons texturenofocus
+    Fixed: Reduced height of Manage dialog window in DialogVideoInfo.xml
+1.0.6
+    Added: Implemented Manage button in DialogVideoInfo.xml
+    Fixed: Switching between locations in Weather widget
+    Changed: Little changes to Weather appearance
+1.0.5
+    Added: Weather and Settings widgets
+    Changed: Submenu focus behavior in Vertical layout
+1.0.4
+    Testing: Fix for submenu
+    Changed: Text align in PVRChannelGuide.xml
+1.0.3
+    Added: Familiar layout to DialogPVRChannelGuide.xml
+    Added: Animation to Familiar PVRChannelsOSD layout
+    Fixed: Progress bars in Legacy PVRChannelsOSD
+    Added: Option to switch PVR Layouts to Legacy one
+1.0.2
+    Changed: DialogPVRChannelsOSD.xml appearance
+    Changed: Reduced size of logo in Landscape aspect ratio for PVR channels
+    Added: Square aspect ratio
+1.0.1
+    Fixed: Logic behind widgets
+    Changed: Widget target enable
+    Fixed: Widget movement with disabled widgets
+    Fixed: Customize main menu - header labels
+1.0.0
+    First alpha release: Please treat it as a preview...

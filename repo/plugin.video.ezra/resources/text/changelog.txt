@@ -1,0 +1,41 @@
+[B]Please utilize Tips (Tools->Tips for use) to catch up on any changes and fixes.
+
+[B]0.2.5 - July 28, 2022[/B]
+[B]--[/B] Cam filter fixes (Git)
+[B]--[/B] Next up timer fixed
+[B]--[/B] 
+
+0.2.4 - Interface colour can now be changed in Settings so you can set Ezra to integrate better with your chosen theme. (Tx to Joe for help on this one)
+0.2.3 - Next Episode dialog complete, "Still Watching" fixed.
+0.2.0 - Some cleanup on the various "extras" pages. 
+0.1.9 - Redo of Next Episode dialog
+0.1.8 - Fanart metaprovider keyart (Git request #2). 
+0.1.7 - Fixed people search
+0.1.6 - Hard coded Trakt API keys removed. Pulls from my accounts instead.
+0.1.5 - Folder scrapers implemented in an older format. May or may not be reliable.
+0.1.4 - Gdrive deprecated / Icon Updates / Folder scrapers disabled pending removal or repair. This is a feature that was broken in previous incarnation of the addon.
+0.1.3 - Minor bugfixes
+0.1.2 - Tmdb search language fixes / tool tips - initial setup guide added / discover help menu fixed / integrated subtitles depracated (use a4ksubtitles for systemwide subtitles)
+0.1.1 - Hungarian Language support (thanks dbx) / Hungarian localisation fixed
+0.0.9 - EzArt module merged into Ezra / Slight change to torrent cloud defaults
+0.0.8 - Scrape cloud as default.
+0.0.7 - Dependancy/Requirement version fix
+0.0.6 - Cleaning up remaining Fen strings and code. Changelogs back
+0.0.5 - Cleanup of all "Fenom" related strings and code. Autoplay fixed.
+0.0.4 - Ezra repository added
+0.0.3 - Removed fen from headings and moved headings from inline to .po
+0.0.2 - Removed last traces of Fen/Fenom from language files
+0.0.1 - Forked from Fen - New API keys for TMDB and Trakt / New Artwork
+
+[B]Roadmap / Git Requests[/B]
+
+[B]Integrate Accounts into main Addon[/B]
+
+[B]Premiumize Cloud - Search Folder Names[/B]
+
+Currently the cloud search only checks file names not folder names. When downloading torrents that’s normally no issue because the folder name is same to the file name. But in the usenet world, nearly all file names are obfuscated to evade DMCD. But folder names are intact.change code, that first it’s does what it does now, and check file names, but if it hasn’t found anything then checks folder names
+
+[B]Real Debrid API Keys[/B]
+
+Implement option to use personal RD API key in My Accounts
+

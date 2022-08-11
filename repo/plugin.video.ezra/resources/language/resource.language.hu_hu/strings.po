@@ -1,0 +1,3254 @@
+# Addon Name: Ezra
+# Addon id: plugin.video.ezra
+# Addon Provider:
+# Translator Hungarian: dbx
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: dbx\n"
+"Language-Team: dbx\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgctxt "#32001"
+msgid "General"
+msgstr "Általános"
+
+msgctxt "#32002"
+msgid "Show Next Episode Window"
+msgstr "Következő epizód ablak megjelenítése"
+
+msgctxt "#32003"
+msgid "Databases"
+msgstr "Adatbázis"
+
+msgctxt "#32004"
+msgid "Show Window Before End (secs)"
+msgstr "Ablak megjelenítése vége előtt (secs)"
+
+msgctxt "#32005"
+msgid "Show Window Before End (%)"
+msgstr "Ablak megjelenítése vége előtt (%)"
+
+msgctxt "#32006"
+msgid "Scrape with ALL External Scrapers"
+msgstr "Scrape minden külső Scraper-el"
+
+msgctxt "#32007"
+msgid "[B]Download Pack[/B]"
+msgstr "[B]Csomag letöltése[/B]"
+
+msgctxt "#32008"
+msgid "Show TV Show Specials When Available"
+msgstr "Sorozatok speciális epizódok megjelenítése, ha rendelkezésre áll"
+
+msgctxt "#32009"
+msgid "Flatten TV Show Seasons"
+msgstr "Sorozat évadok egyesítése"
+
+msgctxt "#32010"
+msgid "Use Season Titles When Available"
+msgstr "Használja az évadcímeket, ha rendelkezésre állnak"
+
+msgctxt "#32011"
+msgid "Priority (Lower Number Equals Higher Priority)"
+msgstr "Prioritás (Alacsonyabb szám egyenlő magasabb prioritással)"
+
+msgctxt "#32012"
+msgid "Use as Default Provider (Slow)"
+msgstr "Alapértelmezett szolgáltató használata (lassú)"
+
+msgctxt "#32013"
+msgid "Never"
+msgstr "Soha"
+
+msgctxt "#32014"
+msgid "Rescrape & Select Source"
+msgstr "Scrape újrakezdése és a forrás kiválasztása"
+
+msgctxt "#32015"
+msgid "Always"
+msgstr "Mindíg"
+
+msgctxt "#32016"
+msgid "[B]Add to Cloud[/B]"
+msgstr "[B]Hozzáadás a felhő alapú szolgáltatáshoz[/B]"
+
+msgctxt "#32017"
+msgid "Auto Start Ezra when Kodi Starts"
+msgstr "Ezra automatikus indítása a Kodi indításakor"
+
+msgctxt "#32018"
+msgid "Set"
+msgstr "Állítsa be"
+
+msgctxt "#32019"
+msgid "Paginate Lists When Possible"
+msgstr "Bontsa oldalakra, amikor csak lehetséges"
+
+msgctxt "#32020"
+msgid "Max. Lists items"
+msgstr "Max. Tételek listája"
+
+msgctxt "#32021"
+msgid "Jump To... List Navigation"
+msgstr "Ugrás... Lista navigáció"
+
+msgctxt "#32022"
+msgid "Page"
+msgstr "Oldal"
+
+msgctxt "#32023"
+msgid "Alphabet"
+msgstr "Betűrendben"
+
+msgctxt "#32024"
+msgid "Disable"
+msgstr "Kikapcsolás"
+
+msgctxt "#32025"
+msgid "Ignore Articles When Sorting Lists"
+msgstr "Címek figyelmen kívül hagyása listák rendezésekor"
+
+msgctxt "#32026"
+msgid "Open Ezra Extras When Selecting..."
+msgstr "Ezra extrák megnyitása kiválasztásakor..."
+
+msgctxt "#32027"
+msgid "Off"
+msgstr "Kikapcsolva"
+
+msgctxt "#32028"
+msgid "Movies"
+msgstr "Filmek"
+
+msgctxt "#32029"
+msgid "TV Shows"
+msgstr "Sorozatok"
+
+msgctxt "#32030"
+msgid "Both"
+msgstr "Mindkettő"
+
+msgctxt "#32031"
+msgid "Choose Files to Download"
+msgstr "Letölteni kívánt fájlok kiválasztása"
+
+msgctxt "#32032"
+msgid "If Only One Season"
+msgstr "Ha csak egy évad"
+
+msgctxt "#32033"
+msgid "Always"
+msgstr "Mindíg"
+
+msgctxt "#32034"
+msgid "Watched Indicators"
+msgstr "Megtekintett státusz"
+
+msgctxt "#32035"
+msgid "Watched Status Provider"
+msgstr "Megtekintett státusz szolgáltató"
+
+msgctxt "#32036"
+msgid "Ezra"
+msgstr "Ezra"
+
+msgctxt "#32037"
+msgid "Trakt"
+msgstr "Trakt"
+
+msgctxt "#32038"
+msgid "Show Window Based On"
+msgstr "Ablak megjelenítése az alábbiak alapján"
+
+msgctxt "#32039"
+msgid "Authorize Trakt for More options"
+msgstr "Trakt bejelentkezés további lehetőségekért"
+
+msgctxt "#32040"
+msgid "Percentage Played"
+msgstr "Lejátszott százalék"
+
+msgctxt "#32041"
+msgid "Time Remaining"
+msgstr "Hátralévő idő"
+
+msgctxt "#32042"
+msgid "Set Watched in Kodi Library when Watched in Ezra"
+msgstr "Megnézett státuszra állítás a Kodi adatbázisban, amikor megnézted Ezra-ban"
+
+msgctxt "#32043"
+msgid "Most Watched This Week"
+msgstr "A héten a legtöbbet megtekintett"
+
+msgctxt "#32044"
+msgid "Continue Transfer in Background?"
+msgstr "Transzfer folytatása a háttérben?"
+
+msgctxt "#32045"
+msgid "UTC (+/-)"
+msgstr "UTC (+/-) (Magyarország UTC +2)"
+
+msgctxt "#32046"
+msgid "Enable Content for Extras Lists"
+msgstr "Tartalom engedélyezése az extrák listáihoz"
+
+msgctxt "#32047"
+msgid "Refresh Data from Trakt Server every...(mins)"
+msgstr "Az adatok frissítése a Trakt szerverről minden...(perc)"
+
+msgctxt "#32048"
+msgid "Attempt to Refresh Widgets After Refresh"
+msgstr "Kísérlet a widgetek frissítésére a Trakt frissítés után"
+
+msgctxt "#32049"
+msgid "Press Context Menu to Download Image..."
+msgstr "Nyomja meg a context menüt a kép letöltéséhez..."
+
+msgctxt "#32050"
+msgid "Ignore All Filters When No Results Available"
+msgstr "Minden szűrő figyelmen kívül hagyása, ha nincs keresési találat"
+
+msgctxt "#32051"
+msgid "Login"
+msgstr "Bejelentkezés"
+
+msgctxt "#32052"
+msgid "Password"
+msgstr "Jelszó"
+
+msgctxt "#32053"
+msgid "API Key (optional)"
+msgstr "API-kulcs (opcionális)"
+
+msgctxt "#32054"
+msgid "Real Debrid"
+msgstr "Real Debrid"
+
+msgctxt "#32055"
+msgid "Enable"
+msgstr "Bekapcsolás"
+
+msgctxt "#32056"
+msgid "Username"
+msgstr "Felhasználónév"
+
+msgctxt "#32057"
+msgid "Authorize"
+msgstr "Hitelesítés"
+
+msgctxt "#32058"
+msgid "Re-Authorize"
+msgstr "Hitelesítés újra"
+
+msgctxt "#32059"
+msgid "Revoke Authorization"
+msgstr "Hitelesítés visszavonása"
+
+msgctxt "#32060"
+msgid "Add Resolved Torrents to Cloud"
+msgstr "Feloldott torrentek hozzáadása a felhőhöz"
+
+msgctxt "#32061"
+msgid "Premiumize"
+msgstr "Prémiumizálni"
+
+msgctxt "#32062"
+msgid "Customer ID"
+msgstr "Ügyfél ID"
+
+msgctxt "#32063"
+msgid "All Debrid"
+msgstr "Összes Debrid"
+
+msgctxt "#32064"
+msgid "IMDb"
+msgstr "IMDb"
+
+msgctxt "#32065"
+msgid "User"
+msgstr "Felhasználó"
+
+msgctxt "#32066"
+msgid "Sort Type"
+msgstr "Rendezési típus"
+
+msgctxt "#32067"
+msgid "Sort Order"
+msgstr "Rendezési sorrend"
+
+msgctxt "#32068"
+msgid "TMDb"
+msgstr "TMDb"
+
+msgctxt "#32069"
+msgid "Furk"
+msgstr "Furk"
+
+msgctxt "#32070"
+msgid "Easynews"
+msgstr "Easynews"
+
+msgctxt "#32071"
+msgid "Next Episodes"
+msgstr "Következő epizód"
+
+msgctxt "#32072"
+msgid "Content and Sorting"
+msgstr "Tartalom és rendezés"
+
+msgctxt "#32073"
+msgid "Include Unaired Episodes"
+msgstr "Listázza a még meg nem jelent epizódokat is"
+
+msgctxt "#32074"
+msgid "Include Trakt Watchlist"
+msgstr "Tartalmazza a Trakt megtekintési listát"
+
+msgctxt "#32076"
+msgid "Include Airdate in Title"
+msgstr "Tartalmazza a megjelenési dátumot a címben"
+
+msgctxt "#32077"
+msgid "Single Episode Airdate Format"
+msgstr "Epizódok megjelenési dátumának formátuma"
+
+msgctxt "#32080"
+msgid "Unwatched Color"
+msgstr "Nézetlen színe"
+
+msgctxt "#32081"
+msgid "Trakt Calendar"
+msgstr "Trakt naptár"
+
+msgctxt "#32082"
+msgid "Set Focus to Today's Date"
+msgstr "Állítsd a fókuszt mindig az aktuális mai dátumra"
+
+msgctxt "#32083"
+msgid "Show Previous Days"
+msgstr "Előző napok találatainak megjelenítése (Add meg a napok számát)"
+
+msgctxt "#32084"
+msgid "Show Future Days"
+msgstr "Következő napok találatainak megjelenítése (Add meg a napok számát)"
+
+msgctxt "#32085"
+msgid "Widgets"
+msgstr "Widgetek"
+
+msgctxt "#32086"
+msgid "Max. Items"
+msgstr "Max. Elemek"
+
+msgctxt "#32087"
+msgid "Trakt Cache"
+msgstr "Trakt Cache"
+
+msgctxt "#32088"
+msgid "Use Episode Thumbnails For Background When Available"
+msgstr "Az epizód miniatűrök használata háttérként, ha rendelkezésre áll"
+
+msgctxt "#32089"
+msgid "Show"
+msgstr "Mutat"
+
+msgctxt "#32090"
+msgid "On"
+msgstr "Be"
+
+msgctxt "#32091"
+msgid "Full"
+msgstr "Teljes"
+
+msgctxt "#32092"
+msgid "Keywords"
+msgstr "Kulcsszavak"
+
+msgctxt "#32093"
+msgid "Search Moderation"
+msgstr "Keresés moderálása"
+
+msgctxt "#32094"
+msgid "Details"
+msgstr "Részletek"
+
+msgctxt "#32095"
+msgid "Highlight Color"
+msgstr "Kiemelés színe"
+
+msgctxt "#32096"
+msgid "Internal Scrapers"
+msgstr "Belső Scraperek"
+
+msgctxt "#32097"
+msgid "PM Cloud"
+msgstr "PM Cloud"
+
+msgctxt "#32098"
+msgid "RD Cloud"
+msgstr "RD Cloud"
+
+msgctxt "#32099"
+msgid "AD Cloud"
+msgstr "AD Cloud"
+
+msgctxt "#32100"
+msgid "Site"
+msgstr "Oldal"
+
+msgctxt "#32101"
+msgid "UTC Time Offset"
+msgstr "UTC időeltolódás"
+
+msgctxt "#32102"
+msgid "Exclude Adult Results"
+msgstr "Felnőtt 18+ tartalom kizárása"
+
+msgctxt "#32103"
+msgid "Show Results at Top"
+msgstr "Találatok megjelenítése felül"
+
+msgctxt "#32104"
+msgid "Check Before Full Search"
+msgstr "Ellenőrizze teljes keresés előtt"
+
+msgctxt "#32105"
+msgid "Quality Limit"
+msgstr "Minőségi korlát"
+
+msgctxt "#32106"
+msgid "Hash"
+msgstr "Hash"
+
+msgctxt "#32107"
+msgid "Downloads"
+msgstr "Letöltések"
+
+msgctxt "#32108"
+msgid "Folders Scrapers"
+msgstr "Mappák Scrapers"
+
+msgctxt "#32109"
+msgid "Choose Folder Scraper"
+msgstr "Válassz mappát a Scraper-nek"
+
+msgctxt "#32110"
+msgid "Folder 1"
+msgstr "Mappa 1"
+
+msgctxt "#32111"
+msgid "Folder 2"
+msgstr "Mappa 2"
+
+msgctxt "#32112"
+msgid "Folder 3"
+msgstr "Mappa 3"
+
+msgctxt "#32113"
+msgid "Folder 4"
+msgstr "Mappa 4"
+
+msgctxt "#32114"
+msgid "Folder 5"
+msgstr "Mappa 5"
+
+msgctxt "#32115"
+msgid "Display Name"
+msgstr "Megjelenített név"
+
+msgctxt "#32116"
+msgid "Movies Directory"
+msgstr "Filmek könyvtára"
+
+msgctxt "#32117"
+msgid "TV Shows Directory"
+msgstr "Sorozatok könyvtára"
+
+msgctxt "#32118"
+msgid "External Scrapers"
+msgstr "Külső Scraper-ek"
+
+msgctxt "#32119"
+msgid "External Scrapers (Powered by Ezscrapers)"
+msgstr "Külső Scraper-ek (Powered by Ezscrapers)"
+
+msgctxt "#32120"
+msgid "Stop Search Early if Most Sources Finished"
+msgstr "Leállítani a keresést, ha már a legtöbb forrás keresése befejeződött"
+
+msgctxt "#32123"
+msgid "Internet Speed (Mbit/s)"
+msgstr "Internet sebesség (Mbit/s)"
+
+msgctxt "#32127"
+msgid "Hosters Color"
+msgstr "Hosters szín"
+
+msgctxt "#32128"
+msgid "Torrents Color"
+msgstr "Torrent szín"
+
+msgctxt "#32129"
+msgid "All"
+msgstr "Mind"
+
+msgctxt "#32130"
+msgid "4K"
+msgstr "4K"
+
+msgctxt "#32131"
+msgid "1080P"
+msgstr "1080P"
+
+msgctxt "#32132"
+msgid "720P"
+msgstr "720P"
+
+msgctxt "#32133"
+msgid "SD"
+msgstr "SD"
+
+msgctxt "#32134"
+msgid "Multi File Pack Download Started..."
+msgstr "Multi File Pack letöltése elkezdődött..."
+
+msgctxt "#32135"
+msgid "Scrape with Custom Values"
+msgstr "Scrape egyedi értékekkel"
+
+msgctxt "#32136"
+msgid "Press Context Menu for Playback Options..."
+msgstr "Nyomd meg a Context menüt a lejátszási beállításokért..."
+
+msgctxt "#32137"
+msgid "Ezscrapers Default Providers"
+msgstr "Ezscrapers alapértelmezett szolgáltatók"
+
+msgctxt "#32138"
+msgid "Results Color Highlights"
+msgstr "Találatok szín kiemelése"
+
+msgctxt "#32139"
+msgid "Results"
+msgstr "Találatok"
+
+msgctxt "#32140"
+msgid "Display"
+msgstr "Megjelenítés"
+
+msgctxt "#32141"
+msgid "Scraper Timeout"
+msgstr "Scraper időtúllépés"
+
+msgctxt "#32142"
+msgid "Tikiskins"
+msgstr "Tikiskins"
+
+msgctxt "#32143"
+msgid "Search Dialog Heading"
+msgstr "Keresés párbeszédpanel fejléce"
+
+msgctxt "#32144"
+msgid "Choose Notifications"
+msgstr "Értesítések kiválasztása"
+
+msgctxt "#32145"
+msgid "Set Language"
+msgstr "Nyelv beállítása"
+
+msgctxt "#32146"
+msgid "Metadata"
+msgstr "Metaadat"
+
+msgctxt "#32147"
+msgid "Extra Art (Powered by Fanart.tv)"
+msgstr "Extra képek (Powered by Fanart.tv)"
+
+msgctxt "#32148"
+msgid "Include Extra Art"
+msgstr "Tartalmazza az extra képeket"
+
+msgctxt "#32149"
+msgid "TMDb Image Resolution"
+msgstr "TMDb képfelbontás"
+
+msgctxt "#32150"
+msgid "Sorting and Filtering"
+msgstr "Rendezés és szűrés"
+
+msgctxt "#32151"
+msgid "Results Sorting"
+msgstr "Találatok rendezése"
+
+msgctxt "#32152"
+msgid "Filter Results"
+msgstr "Találatok szűrése"
+
+msgctxt "#32153"
+msgid "Clear Filter"
+msgstr "Törölje a szűrőket"
+
+msgctxt "#32154"
+msgid "Filter by Quality"
+msgstr "Szűrés minőség alapján"
+
+msgctxt "#32155"
+msgid "Include Pre-Release Results (CAM/SCR/TELE)"
+msgstr "Tartalmazza a kiadás előtti találatokat (CAM/SCR/TELE)"
+
+msgctxt "#32156"
+msgid "Include 3D Results"
+msgstr "Tartalmazza a 3D tartalmak találatait"
+
+msgctxt "#32157"
+msgid "Filter by Provider"
+msgstr "Szűrés szolgáltató alapján"
+
+msgctxt "#32158"
+msgid "HDR Files Filter"
+msgstr "HDR tartalmak szűrése"
+
+msgctxt "#32159"
+msgid "Dolby Vision Files Filter"
+msgstr "Dolby Vision tartalmak szűrése"
+
+msgctxt "#32160"
+msgid "Display Uncached Torrents"
+msgstr "Mutasd azokat a torrenteket amik nincsenek a gyorsítótárban"
+
+msgctxt "#32161"
+msgid "Filter Results by Size"
+msgstr "Találatok szűrése méret alapján"
+
+msgctxt "#32162"
+msgid "Include Results With Unknown Size"
+msgstr "Tartalmazza azokat a találatokat is amelyeknek ismeretlen a mérete"
+
+msgctxt "#32167"
+msgid "Internal Scrapers Color"
+msgstr "Belső Scraper színe"
+
+msgctxt "#32168"
+msgid "External Scrapers Color"
+msgstr "Külső Scraper színe"
+
+msgctxt "#32169"
+msgid "Filter Extra Info"
+msgstr "Az extra információk szűrése"
+
+msgctxt "#32170"
+msgid "Resolution"
+msgstr "Felbontás"
+
+msgctxt "#32172"
+msgid "Filter Results by Name"
+msgstr "Találatok szűrése név alapján"
+
+msgctxt "#32173"
+msgid "Fanart.tv"
+msgstr "Fanart.tv"
+
+msgctxt "#32174"
+msgid "Playback"
+msgstr "Lejátszás"
+
+msgctxt "#32175"
+msgid "Auto Play"
+msgstr "Automatikus lejátszás"
+
+msgctxt "#32176"
+msgid "Limit Quality"
+msgstr "Minőség korlátozása"
+
+msgctxt "#32177"
+msgid "HEVC Files Filter"
+msgstr "HEVC fájlok szűrése"
+
+msgctxt "#32178"
+msgid "Autoplay Next Episode"
+msgstr "Következő epizód automatikus lejátszása"
+
+msgctxt "#32179"
+msgid "Episodes Watched Before Still Watching Check (0=Off)"
+msgstr "Korábban megnézett epizódok, még mindig nézem ellenőrzés (0=Kikapcsolva)"
+
+msgctxt "#32180"
+msgid "Become a VIP member at fanart.tv for many benefits"
+msgstr "Legyél VIP tag a fanart.tv-nél és élvezz számos előnyt"
+
+msgctxt "#32181"
+msgid "Automatically Resume Playback"
+msgstr "A lejátszás automatikus folytatása"
+
+msgctxt "#32182"
+msgid "Hide"
+msgstr "Elrejt"
+
+msgctxt "#32188"
+msgid "Include"
+msgstr "Tartalmazza"
+
+msgctxt "#32189"
+msgid "Exclude"
+msgstr "Kizárva"
+
+msgctxt "#32190"
+msgid "Prefer (Autoplay)"
+msgstr "Előnyben részesít (Automatikus lejátszás)"
+
+msgctxt "#32191"
+msgid "Autoplay Only"
+msgstr "Csak automatikus lejátszás"
+
+msgctxt "#32192"
+msgid "Auto"
+msgstr "Automatikus"
+
+msgctxt "#32193"
+msgid "Select"
+msgstr "Kiválaszt"
+
+msgctxt "#32194"
+msgid "Single Episode Lists Title Format"
+msgstr "Az epizódokat listázza a következők szerint"
+
+msgctxt "#32195"
+msgid "Directories"
+msgstr "Könyvtárak"
+
+msgctxt "#32196"
+msgid "Updates"
+msgstr "Frissítések"
+
+msgctxt "#32197"
+msgid "[B]Favorites Manager[/B]"
+msgstr "[B]Kedvencek menedzsere[/B]"
+
+msgctxt "#32198"
+msgid "[B]Trakt Lists Manager[/B]"
+msgstr "[B]Trakt listák menedzsere[/B]"
+
+msgctxt "#32199"
+msgid "Trakt List"
+msgstr "Trakt lista"
+
+msgctxt "#32201"
+msgid "TITLE: SxE - EPISODE"
+msgstr "CÍM: SxE - EPIZÓD"
+
+msgctxt "#32202"
+msgid "SxE - EPISODE"
+msgstr "SxE - EPIZÓD"
+
+msgctxt "#32203"
+msgid "EPISODE"
+msgstr "EPIZÓD"
+
+msgctxt "#32204"
+msgid "Highlight Results Based On"
+msgstr "Eredmények kiemelése az alábbiak alapján"
+
+msgctxt "#32205"
+msgid "Trakt Lists"
+msgstr "Trakt listák"
+
+msgctxt "#32206"
+msgid "Real Debrid Color"
+msgstr "Real Debrid színe"
+
+msgctxt "#32207"
+msgid "Premiumize Color"
+msgstr "Premiumize színe"
+
+msgctxt "#32208"
+msgid "All Debrid Color"
+msgstr "Összes Debrid színe"
+
+msgctxt "#32209"
+msgid "Progress Color Highlights"
+msgstr "Folyamatok színének kiemelése"
+
+msgctxt "#32210"
+msgid "Premium Files Directory"
+msgstr "Prémium fájlok mappája"
+
+msgctxt "#32211"
+msgid "Notifications"
+msgstr "Értesítések"
+
+msgctxt "#32215"
+msgid "List Default"
+msgstr "Alapértelmezett listázás"
+
+msgctxt "#32216"
+msgid "Alphabetical"
+msgstr "Betűrendben"
+
+msgctxt "#32217"
+msgid "IMDb Rating"
+msgstr "IMDb értékelés"
+
+msgctxt "#32218"
+msgid "Popularity"
+msgstr "Népszerűség"
+
+msgctxt "#32219"
+msgid "Your Rating"
+msgstr "Az te értékelésed"
+
+msgctxt "#32220"
+msgid "Number Of Ratings"
+msgstr "Értékelések száma"
+
+msgctxt "#32221"
+msgid "Release Date"
+msgstr "Megjelenési dátum"
+
+msgctxt "#32222"
+msgid "Runtime"
+msgstr "Műsoridő"
+
+msgctxt "#32223"
+msgid "Date Added"
+msgstr "Hozzáadás dátuma"
+
+msgctxt "#32224"
+msgid "Ascending"
+msgstr "Növekvő"
+
+msgctxt "#32225"
+msgid "Descending"
+msgstr "Csökkenő"
+
+msgctxt "#32226"
+msgid "Recently Watched"
+msgstr "Nemrég megtekintett"
+
+msgctxt "#32227"
+msgid "Airdate"
+msgstr "Megjelenési idő"
+
+msgctxt "#32228"
+msgid "Title"
+msgstr "Cím"
+
+msgctxt "#32229"
+msgid "Day-Month-Year"
+msgstr "Nap-Hónap-Év"
+
+msgctxt "#32230"
+msgid "Year-Month-Day"
+msgstr "Év-Hónap-Nap"
+
+msgctxt "#32231"
+msgid "Month-Day-Year"
+msgstr "Hónap-Nap-Év"
+
+msgctxt "#32232"
+msgid "One Hour"
+msgstr "Egy óra"
+
+msgctxt "#32233"
+msgid "One Day"
+msgstr "Egy nap"
+
+msgctxt "#32234"
+msgid "One Week"
+msgstr "Egy hét"
+
+msgctxt "#32235"
+msgid "Furk Color"
+msgstr "Furk színe"
+
+msgctxt "#32236"
+msgid "Easynews Color"
+msgstr "Easynews színe"
+
+msgctxt "#32237"
+msgid "Dialog"
+msgstr "Dialógus"
+
+msgctxt "#32238"
+msgid "Scraper Module"
+msgstr "Scraper Modul"
+
+msgctxt "#32239"
+msgid "Media Title"
+msgstr "Média címe"
+
+msgctxt "#32240"
+msgid "Scraper Type"
+msgstr "Scraper típus"
+
+msgctxt "#32241"
+msgid "Quality"
+msgstr "Minőség"
+
+msgctxt "#32242"
+msgid "Hourly Intervals"
+msgstr "Óránkénti időközök"
+
+msgctxt "#32243"
+msgid "Daily Time"
+msgstr "Napi idő"
+
+msgctxt "#32244"
+msgid "Debrid Cloud Color"
+msgstr "Debrid Cloud színe"
+
+msgctxt "#32245"
+msgid "[B]CHOOSE SETTINGS GROUP...[/B]"
+msgstr "[B]VÁLASZD KI A BEÁLLÍTÁSOK CSOPORTJÁT...[/B]"
+
+msgctxt "#32246"
+msgid "Subtitles"
+msgstr "Feliratok"
+
+msgctxt "#32247"
+msgid "Settings"
+msgstr "Beállítások"
+
+msgctxt "#32450"
+msgid "Search"
+msgstr "Keresés"
+
+msgctxt "#32451"
+msgid "Discover"
+msgstr "Felfedezés"
+
+msgctxt "#32452"
+msgid "Popular People"
+msgstr "Népszerű emberek"
+
+msgctxt "#32453"
+msgid "Favorites"
+msgstr "Kedvencek"
+
+msgctxt "#32454"
+msgid "My Lists"
+msgstr "Listáim"
+
+msgctxt "#32455"
+msgid "My Services"
+msgstr "Szolgáltatásaim"
+
+msgctxt "#32456"
+msgid "Tools"
+msgstr "Eszközök"
+
+msgctxt "#32457"
+msgid "Root"
+msgstr "Root"
+
+msgctxt "#32458"
+msgid "Trending"
+msgstr "Trendi"
+
+msgctxt "#32459"
+msgid "Popular"
+msgstr "Népszerű"
+
+msgctxt "#32460"
+msgid "Premieres"
+msgstr "Premierek"
+
+msgctxt "#32461"
+msgid "Latest Releases"
+msgstr "Legújabb megjelenések"
+
+msgctxt "#32462"
+msgid "Top 10 Box Office"
+msgstr "Top 10 Box Office cím"
+
+msgctxt "#32463"
+msgid "Blockbusters"
+msgstr "Blockbusterek"
+
+msgctxt "#32464"
+msgid "In Theaters"
+msgstr "Mozikban"
+
+msgctxt "#32465"
+msgid "Hide Watched Items in Widgets"
+msgstr "A megtekintett elemek elrejtése a widgetekben"
+
+msgctxt "#32466"
+msgid "Non-binary"
+msgstr "Nem bináris"
+
+msgctxt "#32467"
+msgid "Anticipated"
+msgstr "Várható"
+
+msgctxt "#32468"
+msgid "Oscar Winners"
+msgstr "Oscar nyertesek"
+
+msgctxt "#32469"
+msgid "Up Coming"
+msgstr "Hamarosan"
+
+msgctxt "#32470"
+msgid "Genres"
+msgstr "Műfaj"
+
+msgctxt "#32471"
+msgid "Languages"
+msgstr "Nyelv"
+
+msgctxt "#32472"
+msgid "Years"
+msgstr "Évszám"
+
+msgctxt "#32473"
+msgid "Certifications"
+msgstr "Besorolás"
+
+msgctxt "#32474"
+msgid "Because You Watched..."
+msgstr "Mert megnézted..."
+
+msgctxt "#32475"
+msgid "Watched"
+msgstr "Megtekintve"
+
+msgctxt "#32476"
+msgid "In Progress"
+msgstr "Folyamatban"
+
+msgctxt "#32477"
+msgid "Search"
+msgstr "Keresés"
+
+msgctxt "#32478"
+msgid "Airing Today"
+msgstr "A mai műsoron"
+
+msgctxt "#32479"
+msgid "On the Air"
+msgstr "Adásban"
+
+msgctxt "#32480"
+msgid "Networks"
+msgstr "TV hálózatok"
+
+msgctxt "#32481"
+msgid "In Progress TV Shows"
+msgstr "Folyamatban lévő sorozatok"
+
+msgctxt "#32482"
+msgid "In Progress Episodes"
+msgstr "Folyamatban lévő epizódok"
+
+msgctxt "#32483"
+msgid "Next Episodes"
+msgstr "Következő epizód"
+
+msgctxt "#32484"
+msgid "[B]%s: [/B]%s"
+msgstr "[B]%s: [/B]%s"
+
+msgctxt "#32485"
+msgid "Premium Files"
+msgstr "Prémium fájlok"
+
+msgctxt "#32486"
+msgid "History"
+msgstr "Előzmények"
+
+msgctxt "#32487"
+msgid "Help"
+msgstr "Segítség"
+
+msgctxt "#32488"
+msgid "Premium"
+msgstr "Prémium"
+
+msgctxt "#32489"
+msgid "Active"
+msgstr "Aktív"
+
+msgctxt "#32490"
+msgid "Failed"
+msgstr "Sikertelen"
+
+msgctxt "#32491"
+msgid "Video"
+msgstr "Video"
+
+msgctxt "#32492"
+msgid "Navigation"
+msgstr "Navigáció"
+
+msgctxt "#32493"
+msgid "Files"
+msgstr "Fájlok"
+
+msgctxt "#32494"
+msgid "Account Info"
+msgstr "Felhasználói adatok"
+
+msgctxt "#32495"
+msgid "(Re)Authorize"
+msgstr "(Újra)Engedélyezés"
+
+msgctxt "#32496"
+msgid "Cloud Storage"
+msgstr "Felhőalapú tárolás"
+
+msgctxt "#32497"
+msgid "Clear %s Cache"
+msgstr "Tisztítsd meg a %s gyorsítótárat"
+
+msgctxt "#32498"
+msgid "Recently Added"
+msgstr "Nemrég hozzáadott"
+
+msgctxt "#32499"
+msgid "Collection"
+msgstr "Gyűjtemény"
+
+msgctxt "#32500"
+msgid "Watchlist"
+msgstr "Figyelőlista"
+
+msgctxt "#32501"
+msgid "Lists"
+msgstr "Listák"
+
+msgctxt "#32502"
+msgid "Liked Lists"
+msgstr "Kedvenc listák"
+
+msgctxt "#32503"
+msgid "Recommended"
+msgstr "Ajánlott"
+
+msgctxt "#32504"
+msgid "Random"
+msgstr "Véletlenszerű"
+
+msgctxt "#32505"
+msgid "Recently Aired"
+msgstr "Nemrég adásba került"
+
+msgctxt "#32506"
+msgid "Episodes"
+msgstr "Epizódok"
+
+msgctxt "#32507"
+msgid "People"
+msgstr "Emberek"
+
+msgctxt "#32508"
+msgid "Changelog"
+msgstr "Változásnapló"
+
+msgctxt "#32509"
+msgid "Log Viewer"
+msgstr "Napló megtekintése"
+
+msgctxt "#32510"
+msgid "Set Views"
+msgstr "Nézetek beállítása"
+
+msgctxt "#32512"
+msgid "Clear Databases and Clean Settings Files"
+msgstr "Adatbázisok törlése és a beállítási fájlok tisztítása"
+
+msgctxt "#32513"
+msgid "Manager"
+msgstr "Menedzser"
+
+msgctxt "#32514"
+msgid "Shortcut Folders"
+msgstr "Mappák parancsikonja"
+
+msgctxt "#32515"
+msgid "Sources Folders"
+msgstr "Mappák forrása"
+
+msgctxt "#32517"
+msgid "Authorize Debrid Services"
+msgstr "Debrid szolgáltatások engedélyezése"
+
+msgctxt "#32518"
+msgid "Tips for Ezra Use"
+msgstr "Tippek az Ezra használatához"
+
+msgctxt "#32519"
+msgid "Folders 1-5 Color"
+msgstr "Mappák 1-5 színe"
+
+msgctxt "#32520"
+msgid "4K Results Color"
+msgstr "4K találatok színe"
+
+msgctxt "#32522"
+msgid "Ezscrapers"
+msgstr "Ezscrapers"
+
+msgctxt "#32523"
+msgid "1080P Results Color"
+msgstr "1080P találatok színe"
+
+msgctxt "#32524"
+msgid "Cache"
+msgstr "Gyorsítótár"
+
+msgctxt "#32525"
+msgid "All"
+msgstr "Mind"
+
+msgctxt "#32526"
+msgid "Clean"
+msgstr "Tiszta"
+
+msgctxt "#32527"
+msgid "Meta"
+msgstr "Meta"
+
+msgctxt "#32528"
+msgid "Bookmark Page Progress"
+msgstr "Könyvjelző oldal folyamata"
+
+msgctxt "#32533"
+msgid "Scrapers"
+msgstr "Scraper-ek"
+
+msgctxt "#32534"
+msgid "Debrid"
+msgstr "Debrid"
+
+msgctxt "#32535"
+msgid "Torrent"
+msgstr "Torrent"
+
+msgctxt "#32536"
+msgid "Specific"
+msgstr "Specifikus"
+
+msgctxt "#32537"
+msgid "Season"
+msgstr "Évad"
+
+msgctxt "#32538"
+msgid "Kodi"
+msgstr "Kodi"
+
+msgctxt "#32539"
+msgid "Enable Kodi Menu Caching"
+msgstr "Kodi menü gyorsítótárazásának bekapcsolása"
+
+msgctxt "#32540"
+msgid "Choose Random Play Type..."
+msgstr "Válaszd ki a véletlenszerű lejátszás típusát..."
+
+msgctxt "#32541"
+msgid "Single Random Play"
+msgstr "Egyszeri véletlenszerű lejátszás"
+
+msgctxt "#32542"
+msgid "Continual Random Play"
+msgstr "Folyamatos véletlenszerű lejátszás"
+
+msgctxt "#32543"
+msgid "Year"
+msgstr "Év"
+
+msgctxt "#32544"
+msgid "[B]Browse Season...[/B]"
+msgstr "[B]Évad böngészése...[/B]"
+
+msgctxt "#32545"
+msgid "Time"
+msgstr "Idő"
+
+msgctxt "#32546"
+msgid "Tips"
+msgstr "Tippek"
+
+msgctxt "#32547"
+msgid "Set view and then click here"
+msgstr "Állítsd be a nézetet, majd kattints ide"
+
+msgctxt "#32548"
+msgid "Action"
+msgstr "Akció"
+
+msgctxt "#32549"
+msgid "Adventure"
+msgstr "Kaland"
+
+msgctxt "#32550"
+msgid "Animation"
+msgstr "Animáció"
+
+msgctxt "#32551"
+msgid "Comedy"
+msgstr "Vígjáték"
+
+msgctxt "#32552"
+msgid "Crime"
+msgstr "Bűnügyi"
+
+msgctxt "#32553"
+msgid "Documentary"
+msgstr "Dokumentum"
+
+msgctxt "#32554"
+msgid "Drama"
+msgstr "Dráma"
+
+msgctxt "#32555"
+msgid "Family"
+msgstr "Családi"
+
+msgctxt "#32556"
+msgid "Kids"
+msgstr "Gyerek"
+
+msgctxt "#32557"
+msgid "Mystery"
+msgstr "Rejtély"
+
+msgctxt "#32558"
+msgid "Fantasy"
+msgstr "Fantasy"
+
+msgctxt "#32559"
+msgid "History"
+msgstr "Történelmi"
+
+msgctxt "#32560"
+msgid "Horror"
+msgstr "Horror"
+
+msgctxt "#32561"
+msgid "Music"
+msgstr "Zene"
+
+msgctxt "#32562"
+msgid "Romance"
+msgstr "Romantikus"
+
+msgctxt "#32563"
+msgid "Science Fiction"
+msgstr "Sci-Fi"
+
+msgctxt "#32564"
+msgid "TV Movie"
+msgstr "Tévéfilm"
+
+msgctxt "#32565"
+msgid "Thriller"
+msgstr "Thriller"
+
+msgctxt "#32566"
+msgid "War"
+msgstr "Háborús"
+
+msgctxt "#32567"
+msgid "Western"
+msgstr "Western"
+
+msgctxt "#32568"
+msgid "News"
+msgstr "Hírműsor"
+
+msgctxt "#32569"
+msgid "Reality"
+msgstr "Valóságshow"
+
+msgctxt "#32570"
+msgid "Soap"
+msgstr "Szappanopera"
+
+msgctxt "#32571"
+msgid "Talk"
+msgstr "Talk show"
+
+msgctxt "#32572"
+msgid "War & Politics"
+msgstr "Háború és politika"
+
+msgctxt "#32573"
+msgid "Auto [B]Page %d[/B] Selected"
+msgstr "Automatikus [B]Oldal %d[/B] kiválasztva"
+
+msgctxt "#32574"
+msgid "Error"
+msgstr "Hiba"
+
+msgctxt "#32575"
+msgid "None Found"
+msgstr "Nincs találat"
+
+msgctxt "#32576"
+msgid "Success"
+msgstr "Sikeres"
+
+msgctxt "#32577"
+msgid "[B]Please Wait..[/B]"
+msgstr "[B]Kérlek várj..[/B]"
+
+msgctxt "#32578"
+msgid "[B]Checking Debrid Providers[/B]"
+msgstr "[B]Debrid szolgáltatók ellenőrzése[/B]"
+
+msgctxt "#32579"
+msgid "[B]Remaining Debrid Checks:[/B] %s"
+msgstr "[B]Hátralévő Debrid ellenőrzés:[/B] %s"
+
+msgctxt "#32580"
+msgid "Are you sure?"
+msgstr "Biztos vagy benne?"
+
+msgctxt "#32581"
+msgid "No Scraper Stats Available"
+msgstr "Nem állnak rendelkezésre Scraper statisztikák"
+
+msgctxt "#32582"
+msgid "Quality, Provider, Size"
+msgstr "Minőség, Szolgáltató, Méret"
+
+msgctxt "#32583"
+msgid "Provider"
+msgstr "Szolgáltató"
+
+msgctxt "#32584"
+msgid "Size"
+msgstr "Méret"
+
+msgctxt "#32585"
+msgid "Manage Folder Scrapers"
+msgstr "Mappa Scarper-ek kezelése"
+
+msgctxt "#32586"
+msgid "Cloud"
+msgstr "Felhő szolgáltatás"
+
+msgctxt "#32587"
+msgid "Choose %s Scraper Position"
+msgstr "Válaszd ki a %s Scraper pozíciót"
+
+msgctxt "#32588"
+msgid "Place [B]%s[/B] 1st"
+msgstr "Helyezd el [B]%s[/B] elsőnek"
+
+msgctxt "#32589"
+msgid "Place [B]%s[/B] 2nd"
+msgstr "Helyezd el [B]%s[/B] másodiknak"
+
+msgctxt "#32590"
+msgid "Place [B]%s[/B] 3rd"
+msgstr "Helyezd el [B]%s[/B] harmadiknak"
+
+msgctxt "#32591"
+msgid "Place [B]%s[/B] 4th"
+msgstr "Helyezd el [B]%s[/B] negyediknek"
+
+msgctxt "#32592"
+msgid "Similar"
+msgstr "Hasonló"
+
+msgctxt "#32593"
+msgid "Recommended"
+msgstr "Javasolt"
+
+msgctxt "#32594"
+msgid "Hours"
+msgstr "Órák"
+
+msgctxt "#32595"
+msgid "24 Hours"
+msgstr "24 óra"
+
+msgctxt "#32596"
+msgid "Manage In Progress Shows"
+msgstr "Folyamatban lévő sorozatok kezelése"
+
+msgctxt "#32597"
+msgid "Manage Unwatched TV Shows"
+msgstr "Nem látott sorozatok kezelése"
+
+msgctxt "#32598"
+msgid "Currently"
+msgstr "Jelenleg"
+
+msgctxt "#32599"
+msgid "[B]Next Episode Manager[/B]"
+msgstr "[B]Következő epizód menedzser[/B]"
+
+msgctxt "#32600"
+msgid "Basic"
+msgstr "Alapszintű"
+
+msgctxt "#32601"
+msgid "Advanced"
+msgstr "Haladó"
+
+msgctxt "#32602"
+msgid "Add To"
+msgstr "Hozzáadás"
+
+msgctxt "#32603"
+msgid "Remove From"
+msgstr "Távolítsd el a"
+
+msgctxt "#32604"
+msgid "RE-CACHE %s INFO"
+msgstr "GYORSÍTÓTÁRAZZA ÚJRA %s AZ INFÓT"
+
+msgctxt "#32605"
+msgid "Extra Info"
+msgstr "Extra információ"
+
+msgctxt "#32606"
+msgid "Trailer"
+msgstr "Előzetes"
+
+msgctxt "#32607"
+msgid "Reviews"
+msgstr "Vélemények"
+
+msgctxt "#32608"
+msgid "Actors Info"
+msgstr "Színészek információi"
+
+msgctxt "#32609"
+msgid "Director Info"
+msgstr "Rendező információ"
+
+msgctxt "#32610"
+msgid "Extended Info"
+msgstr "Bővített információ"
+
+msgctxt "#32611"
+msgid "[B]Play Random[/B]"
+msgstr "[B]Véletlenszerű lejátszás[/B]"
+
+msgctxt "#32612"
+msgid "More from"
+msgstr "Bővebben"
+
+msgctxt "#32613"
+msgid "Play Random"
+msgstr "Véletlenszerű lejátszás"
+
+msgctxt "#32614"
+msgid "Close"
+msgstr "Bezárás"
+
+msgctxt "#32615"
+msgid "Studio"
+msgstr "Studió"
+
+msgctxt "#32616"
+msgid "Posters"
+msgstr "Poszterek"
+
+msgctxt "#32617"
+msgid "Fanart"
+msgstr "Háttérkép (Fanart)"
+
+msgctxt "#32618"
+msgid "720P Results Color"
+msgstr "720P találatok színe"
+
+msgctxt "#32619"
+msgid "Tagline"
+msgstr "Címke"
+
+msgctxt "#32620"
+msgid "Premiered"
+msgstr "Megjelent"
+
+msgctxt "#32621"
+msgid "Rating"
+msgstr "Értékelés"
+
+msgctxt "#32622"
+msgid "Runtime"
+msgstr "Műsoridő"
+
+msgctxt "#32623"
+msgid "Votes"
+msgstr "Szavazatok"
+
+msgctxt "#32624"
+msgid "Genre/s"
+msgstr "Műfajok"
+
+msgctxt "#32625"
+msgid "Budget"
+msgstr "Költségvetés"
+
+msgctxt "#32626"
+msgid "Revenue"
+msgstr "Bevételek"
+
+msgctxt "#32627"
+msgid "Director"
+msgstr "Rendező"
+
+msgctxt "#32628"
+msgid "Writer/s"
+msgstr "Író"
+
+msgctxt "#32629"
+msgid "Homepage"
+msgstr "Honlap"
+
+msgctxt "#32630"
+msgid "Status"
+msgstr "Státusz"
+
+msgctxt "#32631"
+msgid "Type"
+msgstr "Típus"
+
+msgctxt "#32632"
+msgid "Classification"
+msgstr "Besorolás"
+
+msgctxt "#32633"
+msgid "Created By"
+msgstr "Készítette"
+
+msgctxt "#32634"
+msgid "Last"
+msgstr "Utolsó"
+
+msgctxt "#32635"
+msgid "Next"
+msgstr "Következő"
+
+msgctxt "#32636"
+msgid "Seasons"
+msgstr "Évadok"
+
+msgctxt "#32637"
+msgid "Clear Scrapers Cache"
+msgstr "Scraper-ek gyorsítótárának tisztítása"
+
+msgctxt "#32638"
+msgid "Results Display Mode"
+msgstr "Találatok megjelenítési módja"
+
+msgctxt "#32639"
+msgid "Clear Bookmark Page Progress"
+msgstr "Törölje a könyvjelző oldal folyamatát"
+
+msgctxt "#32640"
+msgid "Save Setting & Exit"
+msgstr "Mentés és kilépés"
+
+msgctxt "#32641"
+msgid "Open"
+msgstr "Megnyitás"
+
+msgctxt "#32642"
+msgid "[B]Mark Watched %s[/B]"
+msgstr "[B]Megjelölés megnézettként %s[/B]"
+
+msgctxt "#32643"
+msgid "[B]Mark Unwatched %s[/B]"
+msgstr "[B]Megjelölés nem nézetként %s[/B]"
+
+msgctxt "#32644"
+msgid "[B]Add/Remove[/B]"
+msgstr "[B]Hozzáadás/Eltávolítás[/B]"
+
+msgctxt "#32645"
+msgid "[B]Extras...[/B]"
+msgstr "[B]Extrák...[/B]"
+
+msgctxt "#32646"
+msgid "[B]Options...[/B]"
+msgstr "[B]Opciók...[/B]"
+
+msgctxt "#32647"
+msgid "SD Results Color"
+msgstr "SD találatok színe"
+
+msgctxt "#32648"
+msgid "[B]Hide from Recommendations[/B]"
+msgstr "[B]Rejtsd el az ajánlások elől[/B]"
+
+msgctxt "#32649"
+msgid "[B]Exit Movie List[/B]"
+msgstr "[B]Kilépés a filmlistából[/B]"
+
+msgctxt "#32650"
+msgid "[B]Exit TV Show List[/B]"
+msgstr "[B]Kilépés a sorozatlistából[/B]"
+
+msgctxt "#32651"
+msgid "[B]Clear Progress[/B]"
+msgstr "[B]Tisztítás folyamatban[/B]"
+
+msgctxt "#32652"
+msgid "[B]Browse...[/B]"
+msgstr "[B]Böngészés...[/B]"
+
+msgctxt "#32653"
+msgid "[B]Refresh[/B]"
+msgstr "[B]Frissítés[/B]"
+
+msgctxt "#32654"
+msgid "Start"
+msgstr "Start"
+
+msgctxt "#32655"
+msgid "End"
+msgstr "Vége"
+
+msgctxt "#32656"
+msgid "Clear All Filters"
+msgstr "Az összes szűrő törlése"
+
+msgctxt "#32657"
+msgid "Keywords"
+msgstr "Kulcsszavak"
+
+msgctxt "#32658"
+msgid "Language"
+msgstr "Nyelv"
+
+msgctxt "#32659"
+msgid "Region"
+msgstr "Régió"
+
+msgctxt "#32660"
+msgid "Companies"
+msgstr "Vállalatok"
+
+msgctxt "#32661"
+msgid "Minimum"
+msgstr "Minimum"
+
+msgctxt "#32662"
+msgid "Maximum"
+msgstr "Maximum"
+
+msgctxt "#32663"
+msgid "Number of Votes"
+msgstr "Szavazatok száma"
+
+msgctxt "#32664"
+msgid "Cast"
+msgstr "Szereplők"
+
+msgctxt "#32665"
+msgid "Adult"
+msgstr "Felnőtt"
+
+msgctxt "#32666"
+msgid "[B]SAVE & BROWSE RESULTS FOR:[/B]  [I]%s[/I]"
+msgstr "[B]MENTÉS ÉS A TALÁLATOK BÖNGÉSZÉSE:[/B]  [I]%s[/I]"
+
+msgctxt "#32667"
+msgid "[B]EXPORT SEARCH:[/B]  [I]%s[/I]"
+msgstr "[B]KERESÉS EXPORTÁLÁSA:[/B]  [I]%s[/I]"
+
+msgctxt "#32668"
+msgid "Change"
+msgstr "Változtatás"
+
+msgctxt "#32669"
+msgid "Optional"
+msgstr "Opcionális"
+
+msgctxt "#32670"
+msgid "Filter"
+msgstr "Szűrő"
+
+msgctxt "#32671"
+msgid "Clear"
+msgstr "Tisztítás"
+
+msgctxt "#32672"
+msgid "Similar to"
+msgstr "Hasonló"
+
+msgctxt "#32673"
+msgid "Recommended based on"
+msgstr "Ajánlott a következők alapján"
+
+msgctxt "#32674"
+msgid "Time elapsed: %s seconds"
+msgstr "Eltelt idő: %s perc"
+
+msgctxt "#32675"
+msgid "%s seconds"
+msgstr "%s perc"
+
+msgctxt "#32676"
+msgid "[B]Remaining providers:[/B] %s"
+msgstr "[B]Hátralévő szolgáltatók:[/B] %s"
+
+msgctxt "#32677"
+msgid "Total"
+msgstr "Összesen"
+
+msgctxt "#32678"
+msgid "[B]Preparing sources[/B]"
+msgstr "[B]Források előkészítése[/B]"
+
+msgctxt "#32679"
+msgid "Filter Title"
+msgstr "Szűrés cím alapján"
+
+msgctxt "#32680"
+msgid "[I]Please visit Ez Scrapers to change settings[/I]"
+msgstr "[I]Kérjük, nyisd meg az Ez Scrapers kiegészítőt a beállítások módosításához[/I]"
+
+msgctxt "#32681"
+msgid "Choose Addons"
+msgstr "Kiegészítő kiválasztása"
+
+msgctxt "#32682"
+msgid "Clear Current Folder"
+msgstr "Aktuális mappa törlése"
+
+msgctxt "#32683"
+msgid "Choose New Folder"
+msgstr "Új mappa kiválasztása"
+
+msgctxt "#32684"
+msgid "Meta Accounts"
+msgstr "Meta fiókok"
+
+msgctxt "#32685"
+msgid "Provider Accounts"
+msgstr "Szolgáltató fiókok"
+
+msgctxt "#32686"
+msgid "Filters Ignored"
+msgstr "Szűrők figyelmen kívül hagyva"
+
+msgctxt "#32687"
+msgid "Include HDR Results"
+msgstr "Tartalmazza a HDR találatokat"
+
+msgctxt "#32688"
+msgid "Complete file is [B]%dMB[/B]"
+msgstr "A teljes fájl [B]%dMB[/B]"
+
+msgctxt "#32689"
+msgid "Continue with download?"
+msgstr "Folytassa a letöltést?"
+
+msgctxt "#32690"
+msgid "Downloading [B]%s[/B]"
+msgstr "Letöltés [B]%s[/B]"
+
+msgctxt "#32691"
+msgid "Download Progress: "
+msgstr "Letöltés folyamatban: "
+
+msgctxt "#32692"
+msgid "No URL found for Download. Pick another Source: "
+msgstr "Nincs URL a letöltéshez. Válassz másik forrást: "
+
+msgctxt "#32693"
+msgid "Content"
+msgstr "Tartalom"
+
+msgctxt "#32694"
+msgid "Sorting"
+msgstr "Rendezés"
+
+msgctxt "#32697"
+msgid "Export List"
+msgstr "Export Lista"
+
+msgctxt "#32698"
+msgid "Remove From History"
+msgstr "Eltávolítás az előzményekből"
+
+msgctxt "#32699"
+msgid "Clear All History"
+msgstr "Teljes előzmények törlése"
+
+msgctxt "#32700"
+msgid "Navigate to: [B]%s[/B]"
+msgstr "Navigáljon a következőre: [B]%s[/B]"
+
+msgctxt "#32701"
+msgid "Enter the following code: [B]%s[/B]"
+msgstr "Írd be a következő kódot: [B]%s[/B]"
+
+msgctxt "#32702"
+msgid "Make New Shortcut Folder"
+msgstr "Új mappa parancsikon létrehozása"
+
+msgctxt "#32705"
+msgid "[B]Edit Menu[/B]"
+msgstr "[B]Menü szerkesztése[/B]"
+
+msgctxt "#32706"
+msgid "[B]Browse Removed item[/B]"
+msgstr "[B]Eltávolított elemek böngészése[/B]"
+
+msgctxt "#32707"
+msgid "Place [B]%s[/B] below [B]%s[/B]"
+msgstr "Tedd [B]%s[/B] alá [B]%s[/B]"
+
+msgctxt "#32708"
+msgid "Place [B]%s[/B] at Top of List"
+msgstr "Tedd [B]%s[/B] a lista tetejére"
+
+msgctxt "#32709"
+msgid "Top Position"
+msgstr "Legfelső pozició"
+
+msgctxt "#32710"
+msgid "Existing Shortcut Folder"
+msgstr "Meglévő parancsikon mappa"
+
+msgctxt "#32711"
+msgid "Edit [B]'%s'[/B] Folder..."
+msgstr "Szerkesztés [B]'%s'[/B] mappa..."
+
+msgctxt "#32712"
+msgid "Move"
+msgstr "Mozgatás"
+
+msgctxt "#32713"
+msgid "Remove"
+msgstr "Eltávolítás"
+
+msgctxt "#32715"
+msgid "[B]MAKE NEW FOLDER[/B]"
+msgstr "[B]ÚJ MAPPA LÉTREHOZÁSA[/B]"
+
+msgctxt "#32716"
+msgid "Move [B]'%s'[/B] to a different position in the list"
+msgstr "Mozgasd át [B]'%s'[/B] a lista egy másik pozíciójára"
+
+msgctxt "#32717"
+msgid "Remove [B]'%s'[/B] from the list"
+msgstr "Távolítsd el [B]'%s'[/B] a listáról"
+
+msgctxt "#32718"
+msgid "Add [B]'%s'[/B] to a different Menu list"
+msgstr "[B]'%s'[/B] hozzáadása egy másik menü listához"
+
+msgctxt "#32719"
+msgid "Add [B]'%s'[/B] to a [B]Shortcut Folder[/B]"
+msgstr "[B]'%s'[/B] hozzáadása egy [B]mappa parancsikonhoz[/B]"
+
+msgctxt "#32720"
+msgid "Add a Trakt list to [B]'%s'[/B] Menu"
+msgstr "Trakt lista hozzáadása a [B]'%s'[/B] menühöz"
+
+msgctxt "#32721"
+msgid "Re-add a removed item from [B]'%s'[/B] Menu"
+msgstr "Eltávolított elem újbóli hozzáadása a [B]'%s'[/B] menüből"
+
+msgctxt "#32722"
+msgid "Restore [B]'%s'[/B] Menu to default"
+msgstr "[B]'%s'[/B] menü visszaállítása az alapértelmezettre"
+
+msgctxt "#32723"
+msgid "Check if [B]'%s'[/B] Menu has New Menu items"
+msgstr "Ellenőrizze, hogy a [B]'%s'[/B] menüben vannak-e új menü elemek"
+
+msgctxt "#32724"
+msgid "Reload [B]'%s'[/B]"
+msgstr "Újratöltés [B]'%s'[/B]"
+
+msgctxt "#32725"
+msgid "Add a [B]Shortcut Folder[/B] to [B]'%s'[/B] Menu"
+msgstr "[B]Mappa parancsikon[/B] hozzáadása a [B]'%s'[/B] menühöz"
+
+msgctxt "#32726"
+msgid "Choose Menu to add %s Into.."
+msgstr "Válaszd ki a menüt hogy hozzáadd %s"
+
+msgctxt "#32727"
+msgid "New item %s Exists"
+msgstr "Új elem %s Létezik"
+
+msgctxt "#32728"
+msgid "Would you like to add this to the Menu?"
+msgstr "Szeretnéd ezt hozzáadni a menühöz?"
+
+msgctxt "#32729"
+msgid "You Must Also Remove Instances of this Shortcut Folder from any Lists Individually"
+msgstr "A parancsikon mappa példányait külön-külön is el kell távolítanod a listákból"
+
+msgctxt "#32730"
+msgid "[B]Add to a Menu[/B]"
+msgstr "[B]Hozzáadás a menühöz[/B]"
+
+msgctxt "#32731"
+msgid "[B]Add to a Shortcut Folder[/B]"
+msgstr "[B]Hozzáadás egy mappa parancsikonhoz[/B]"
+
+msgctxt "#32732"
+msgid "Saving Torrent to the %s Cloud"
+msgstr "Torrent mentése a %s felhő szolgáltatásba"
+
+msgctxt "#32733"
+msgid "Ezra Cloud Transfer"
+msgstr "Ezra felhő alapú transzfer"
+
+msgctxt "#32734"
+msgid "Downloading at %s MB/s from %s peers, %s%% of %sGB completed"
+msgstr "Letöltés %s MB/s sebességgel %s peer-ektől, %s%% %sGB teljesítve"
+
+msgctxt "#32735"
+msgid "Uploading at %s MB/s, %s%% of %s GB completed"
+msgstr "Feltöltés %s MB/s sebességgel, %s%%-a %s GB teljesítve"
+
+msgctxt "#32736"
+msgid "Cancelled"
+msgstr "Törölt"
+
+msgctxt "#32737"
+msgid "Converting MAGNET..."
+msgstr "MAGNET LINK átalakítása..."
+
+msgctxt "#32738"
+msgid "%s seeders"
+msgstr "%s seeders"
+
+msgctxt "#32739"
+msgid "Downloading %s GB @ %s mbps from %s peers, %s %% completed"
+msgstr "%s GB letöltése %s mbps sebességgel %s társtól, %s %% befejezve"
+
+msgctxt "#32740"
+msgid "OpenSubtitles Rate Limited. Retrying in 10 secs.."
+msgstr "OpenSubtitles kapcsolat limitált. Újrapróbálkozás 10 másodperc múlva.."
+
+msgctxt "#32741"
+msgid "You must authenticate with Trakt. Do you want to authenticate now?"
+msgstr "Hitelesítenie kell magát a Traktnál. Szeretne most bejelentkezni?"
+
+msgctxt "#32742"
+msgid "folder"
+msgstr "mappa"
+
+msgctxt "#32743"
+msgid "file"
+msgstr "fájl"
+
+msgctxt "#32747"
+msgid "[B]Download File[/B]"
+msgstr "[B]Fájl letöltése[/B]"
+
+msgctxt "#32748"
+msgid "[B]Rename %s[/B]"
+msgstr "[B]Átnevezés %s[/B]"
+
+msgctxt "#32749"
+msgid "[B]Customer ID:[/B] %s"
+msgstr "[B]Ügyfél azonosító (Customer ID):[/B] %s"
+
+msgctxt "#32750"
+msgid "[B]Expires:[/B] %s"
+msgstr "[B]Lejárat:[/B] %s"
+
+msgctxt "#32751"
+msgid "[B]Days Remaining:[/B] %s"
+msgstr "[B]Hátralévő napok:[/B] %s"
+
+msgctxt "#32752"
+msgid "[B]Points Used:[/B] %.f"
+msgstr "[B]Felhasznált pontok:[/B] %.f"
+
+msgctxt "#32753"
+msgid "[B]Space Used:[/B] %.2f"
+msgstr "[B]Használt hely:[/B] %.2f"
+
+msgctxt "#32754"
+msgid "[B]Fair Use (Percentage Used):[/B] %s"
+msgstr "[B]Valós felhasználás (felhasznált százalék):[/B] %s"
+
+msgctxt "#32755"
+msgid "[B]Username:[/B] %s"
+msgstr "[B]Felhasználónév:[/B] %s"
+
+msgctxt "#32756"
+msgid "[B]Email:[/B] %s"
+msgstr "[B]Email:[/B] %s"
+
+msgctxt "#32757"
+msgid "[B]Status:[/B] %s"
+msgstr "[B]Állapot:[/B] %s"
+
+msgctxt "#32758"
+msgid "[B]Account:[/B] %s"
+msgstr "[B]Fiók:[/B] %s"
+
+msgctxt "#32759"
+msgid "[B]Fidelity Points:[/B] %s"
+msgstr "[B]Hűségpontok:[/B] %s"
+
+msgctxt "#32760"
+msgid "No Results"
+msgstr "Nincs találat"
+
+msgctxt "#32761"
+msgid "[B]Data Used:[/B] %s"
+msgstr "[B]Felhasznált adat:[/B] %s"
+
+msgctxt "#32762"
+msgid "[B]Data Remaining:[/B] %s"
+msgstr "[B]Maradék adat:[/B] %s"
+
+msgctxt "#32763"
+msgid "Browse Songs or Play Full Album?"
+msgstr "Dalok böngészése vagy teljes album lejátszása?"
+
+msgctxt "#32764"
+msgid "Play"
+msgstr "Lejátszás"
+
+msgctxt "#32765"
+msgid "Uncached"
+msgstr "Nincs a gyorsítótárban"
+
+msgctxt "#32766"
+msgid "[B]Remove from My Files[/B]"
+msgstr "[B]Eltávolítom a fájljaimból[/B]"
+
+msgctxt "#32767"
+msgid "[B]Protect File[/B]"
+msgstr "[B]Fájl védelem[/B]"
+
+msgctxt "#32768"
+msgid "[B]Unprotect File[/B]"
+msgstr "[B]Fájl védelmének feloldása[/B]"
+
+msgctxt "#32769"
+msgid "[B]Add to My Furk Files[/B]"
+msgstr "[B]Hozzáadás a My Furk fájlokhoz[/B]"
+
+msgctxt "#32770"
+msgid "[B]Monthly Limit:[/B] %s GB"
+msgstr "[B]Havi limit:[/B] %s GB"
+
+msgctxt "#32771"
+msgid "[B]Current Month:[/B]"
+msgstr "[B]Aktuális hónap:[/B]"
+
+msgctxt "#32772"
+msgid "[B]Current Subscription:[/B]"
+msgstr "[B]Jelenlegi előfizetés:[/B]"
+
+msgctxt "#32773"
+msgid "[B]Resets On:[/B] %s"
+msgstr "[B]Törlődik:[/B] %s"
+
+msgctxt "#32774"
+msgid "[B]Renewal Needed On:[/B] %s"
+msgstr "[B]Megújítás szükséges:[/B] %s"
+
+msgctxt "#32775"
+msgid "Speed"
+msgstr "Sebesség"
+
+msgctxt "#32776"
+msgid "[B]Like List[/B]"
+msgstr "[B]Tetszik lista[/B]"
+
+msgctxt "#32777"
+msgid "Log Utils"
+msgstr "Napló segédprogramok"
+
+msgctxt "#32778"
+msgid "[B]PERSONAL:[/B] [I]%s[/I]"
+msgstr "[B]SZEMÉLYES:[/B] [I]%s[/I]"
+
+msgctxt "#32779"
+msgid "[B]LIKED:[/B] [I]%s[/I]"
+msgstr "[B]KEDVELT:[/B] [I]%s[/I]"
+
+msgctxt "#32780"
+msgid "[B]Make a new Trakt list[/B]"
+msgstr "[B]Új Trakt lista készítése[/B]"
+
+msgctxt "#32781"
+msgid "[B]Delete list[/B]"
+msgstr "[B]Lista törlése[/B]"
+
+msgctxt "#32782"
+msgid "Size Sort Order"
+msgstr "Rendezési sorrend méret alapján"
+
+msgctxt "#32783"
+msgid "[B]Unlike List[/B]"
+msgstr "[B]Nem kedveltek listája[/B]"
+
+msgctxt "#32784"
+msgid "[B]Switch Jump To Action[/B]"
+msgstr "[B]Ugrás a műveletre[/B]"
+
+msgctxt "#32785"
+msgid "Delete"
+msgstr "Törlés"
+
+msgctxt "#32786"
+msgid "[B]Remove from history[/B]"
+msgstr "[B]Eltávolítás az előzményekből[/B]"
+
+msgctxt "#32787"
+msgid "Kodi Library Sync Complete"
+msgstr "Kodi könyvtár szinkronizálása befejeződött"
+
+msgctxt "#32789"
+msgid "[B]Multiselect...[/B]"
+msgstr "[B]Több választása...[/B]"
+
+msgctxt "#32790"
+msgid "Resume Point: [B]%s[/B]"
+msgstr "Folytatási pont: [B]%s[/B]"
+
+msgctxt "#32792"
+msgid "Downloaded Subtitles Found"
+msgstr "Letöltött feliratok megtalálva"
+
+msgctxt "#32793"
+msgid "No Subtitles Found"
+msgstr "Felirat nem található"
+
+msgctxt "#32794"
+msgid "Searching Secondary Language"
+msgstr "Másodlagos nyelv keresése"
+
+msgctxt "#32795"
+msgid "Clear Old Subtitle Files When Kodi Starts"
+msgstr "Régi feliratfájlok törlése a Kodi indításakor"
+
+msgctxt "#32796"
+msgid "Directed"
+msgstr "Rendezte"
+
+msgctxt "#32797"
+msgid "Biography"
+msgstr "Életrajzi"
+
+msgctxt "#32798"
+msgid "Images"
+msgstr "Képek"
+
+msgctxt "#32799"
+msgid "Next Page >>"
+msgstr "Következő oldal >>"
+
+msgctxt "#32800"
+msgid "Kodi Log Uploader"
+msgstr "Kodi naplófájl feltöltő"
+
+msgctxt "#32801"
+msgid "[B]Next Up:[/B]"
+msgstr "[B]Következik:[/B]"
+
+msgctxt "#32802"
+msgid "Still watching?"
+msgstr "Még mindig nézed?"
+
+msgctxt "#32803"
+msgid "Unwatched"
+msgstr "Nézetlen"
+
+msgctxt "#32804"
+msgid "Included"
+msgstr "Tartalmazza"
+
+msgctxt "#32805"
+msgid "Excluded"
+msgstr "Kizárva"
+
+msgctxt "#32806"
+msgid "Select TV Show to Hide/Unhide from Trakt Progress:"
+msgstr "Válaszd ki a sorozatot amit Elrejtsünk/Felfedjünk a Trakt folyamatból:"
+
+msgctxt "#32807"
+msgid "Scrape With All Filters Ignored"
+msgstr "Scrape minden szűrő figyelmen kívül hagyásával"
+
+msgctxt "#32808"
+msgid "Disable All Filters for Search?"
+msgstr "Minden szűrő letiltása a kereséshez?"
+
+msgctxt "#32809"
+msgid "Clearing Trakt Cache"
+msgstr "Trakt gyorsítótár tisztítása"
+
+msgctxt "#32810"
+msgid "[B]Exit Results[/B]"
+msgstr "[B]Kilépési eredmények[/B]"
+
+msgctxt "#32811"
+msgid "Show Release Year in Listings"
+msgstr "Mutassa a megjelenési évet a listázásokban"
+
+msgctxt "#32812"
+msgid "Cleaned Addon: [B]%s[/B]"
+msgstr "Tisztított kiegészítő: [B]%s[/B]"
+
+msgctxt "#32813"
+msgid "Removed Settings: [B]%s[/B]"
+msgstr "Eltávolított beállítások: [B]%s[/B]"
+
+msgctxt "#32814"
+msgid "Browsed Pages"
+msgstr "Böngészett oldalak"
+
+msgctxt "#32815"
+msgid "List Data"
+msgstr "Adatok listája"
+
+msgctxt "#32816"
+msgid "Clearing"
+msgstr "Tisztítás"
+
+msgctxt "#32817"
+msgid "Settings File"
+msgstr "Beállítások fájl"
+
+msgctxt "#32818"
+msgid "Database Files"
+msgstr "Adatbázis fájlok"
+
+msgctxt "#32819"
+msgid "Sort Episodes Airing Today to Top"
+msgstr "Ma sugárzott epizódok rendezése a tetejére"
+
+msgctxt "#32820"
+msgid "Choose Data"
+msgstr "Adatok kiválasztása"
+
+msgctxt "#32821"
+msgid "[I]Jump to %s Starting with '%s'[/I]"
+msgstr "[I]Ugrás %s-ra '%s'-val kezdődően[/I]"
+
+msgctxt "#32822"
+msgid "[I]Jump to Page %s[/I]"
+msgstr "[I]Ugrás a %s oldalra[/I]"
+
+msgctxt "#32823"
+msgid "[B]NAME:[/B]"
+msgstr "[B]NÉV:[/B]"
+
+msgctxt "#32824"
+msgid "Yes"
+msgstr "Igen"
+
+msgctxt "#32825"
+msgid "BIRTHDAY"
+msgstr "SZÜLETETT"
+
+msgctxt "#32826"
+msgid "DIED"
+msgstr "MEGHALT"
+
+msgctxt "#32827"
+msgid "AGE"
+msgstr "KOR"
+
+msgctxt "#32828"
+msgid "No"
+msgstr "Nem"
+
+msgctxt "#32829"
+msgid "Pre-Scrape"
+msgstr "Elő-Scrape"
+
+msgctxt "#32830"
+msgid "Sources"
+msgstr "Források"
+
+msgctxt "#32831"
+msgid "Download this Torrent to your [B]%s[/B] Cloud?"
+msgstr "Letöltse ezt a torrentet a [B]%s[/B] felhő szolgáltatásodra?"
+
+msgctxt "#32832"
+msgid "Resume"
+msgstr "Folytatás"
+
+msgctxt "#32833"
+msgid "Start Over"
+msgstr "Kezdés előről"
+
+msgctxt "#32834"
+msgid "Limit Auto Play Quality"
+msgstr "Automatikus lejátszás minőségének korlátozása"
+
+msgctxt "#32835"
+msgid "Filter Languages"
+msgstr "Nyelvek szűrése"
+
+msgctxt "#32836"
+msgid "Choose Languages To Include"
+msgstr "Válaszd ki a kívánt nyelveket"
+
+msgctxt "#32837"
+msgid "Exit"
+msgstr "Kilépés"
+
+msgctxt "#32838"
+msgid "Browse"
+msgstr "Böngészés"
+
+msgctxt "#32839"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "#32840"
+msgid "Cancel"
+msgstr "Törlés"
+
+msgctxt "#32841"
+msgid "Options"
+msgstr "Lehetőségek"
+
+msgctxt "#32842"
+msgid "Plot"
+msgstr "Leírás"
+
+msgctxt "#32843"
+msgid "Male"
+msgstr "Férfi"
+
+msgctxt "#32844"
+msgid "Female"
+msgstr "Nő"
+
+msgctxt "#32845"
+msgid "GENDER"
+msgstr "NEMEK"
+
+msgctxt "#32846"
+msgid "Enable Scrollbars for Extras Lists"
+msgstr "Görgetősávok engedélyezése az extrák listáinál"
+
+msgctxt "#32847"
+msgid "Select Genres to Include in Search"
+msgstr "A keresésbe bevonni kívánt műfajok kiválasztása"
+
+msgctxt "#32848"
+msgid "Yesterday"
+msgstr "Tegnap"
+
+msgctxt "#32849"
+msgid "Today"
+msgstr "Ma"
+
+msgctxt "#32850"
+msgid "Tomorrow"
+msgstr "Holnap"
+
+msgctxt "#32851"
+msgid "Jump To Action Switched to [B]%s[/B]"
+msgstr "Ugrás az átváltási műveletre [B]%s[/B]"
+
+msgctxt "#32852"
+msgid "Local Subtitles Found"
+msgstr "Helyi felirat betöltve"
+
+msgctxt "#32853"
+msgid "Upload Kodi Log to Pastebin"
+msgstr "Kodi naplófájl feltöltése a Pastebin-re"
+
+msgctxt "#32854"
+msgid "No External Scrapers Enabled"
+msgstr "Nincsenek külső Scarper-ek engedélyezve"
+
+msgctxt "#32855"
+msgid "Show Log Errors Only?"
+msgstr "Csak a naplózott hibák megjelenítése?"
+
+msgctxt "#32856"
+msgid "Syncing Kodi Library Watched Status"
+msgstr "A Kodi megtekintett állapotának szinkronizálása"
+
+msgctxt "#32857"
+msgid "New"
+msgstr "Új"
+
+msgctxt "#32858"
+msgid "Spotlight"
+msgstr "Reflektorfény"
+
+msgctxt "#32859"
+msgid "True"
+msgstr "Igaz"
+
+msgctxt "#32860"
+msgid "False"
+msgstr "Hamis"
+
+msgctxt "#32861"
+msgid "Arabic"
+msgstr "Arab"
+
+msgctxt "#32862"
+msgid "Bosnian"
+msgstr "Bosnyák"
+
+msgctxt "#32863"
+msgid "Bulgarian"
+msgstr "Bulgár"
+
+msgctxt "#32864"
+msgid "Chinese"
+msgstr "Kínai"
+
+msgctxt "#32865"
+msgid "Croatian"
+msgstr "Horvát"
+
+msgctxt "#32866"
+msgid "Dutch"
+msgstr "Holland"
+
+msgctxt "#32867"
+msgid "English"
+msgstr "Angol"
+
+msgctxt "#32868"
+msgid "Finnish"
+msgstr "Finn"
+
+msgctxt "#32869"
+msgid "French"
+msgstr "Francia"
+
+msgctxt "#32870"
+msgid "German"
+msgstr "Német"
+
+msgctxt "#32871"
+msgid "Greek"
+msgstr "Görög"
+
+msgctxt "#32872"
+msgid "Hebrew"
+msgstr "Héber"
+
+msgctxt "#32873"
+msgid "Hindi"
+msgstr "Hindi"
+
+msgctxt "#32874"
+msgid "Hungarian"
+msgstr "Magyar"
+
+msgctxt "#32875"
+msgid "Icelandic"
+msgstr "Izlandi"
+
+msgctxt "#32876"
+msgid "Italian"
+msgstr "Olasz"
+
+msgctxt "#32877"
+msgid "Japanese"
+msgstr "Japán"
+
+msgctxt "#32878"
+msgid "Korean"
+msgstr "Koreai"
+
+msgctxt "#32879"
+msgid "Macedonian"
+msgstr "Macedóniai"
+
+msgctxt "#32880"
+msgid "Norwegian"
+msgstr "Norvég"
+
+msgctxt "#32881"
+msgid "Persian"
+msgstr "Perzsa"
+
+msgctxt "#32882"
+msgid "Polish"
+msgstr "Lengyel"
+
+msgctxt "#32883"
+msgid "Portuguese"
+msgstr "Portugál"
+
+msgctxt "#32884"
+msgid "Punjabi"
+msgstr "Pandzsábi"
+
+msgctxt "#32885"
+msgid "Romanian"
+msgstr "Román"
+
+msgctxt "#32886"
+msgid "Russian"
+msgstr "Orosz"
+
+msgctxt "#32887"
+msgid "Serbian"
+msgstr "Szerb"
+
+msgctxt "#32888"
+msgid "Slovenian"
+msgstr "Szlovén"
+
+msgctxt "#32889"
+msgid "Spanish"
+msgstr "Spanyol"
+
+msgctxt "#32890"
+msgid "Swedish"
+msgstr "Svéd"
+
+msgctxt "#32891"
+msgid "Turkish"
+msgstr "Török"
+
+msgctxt "#32892"
+msgid "Ukrainian"
+msgstr "Ukrán"
+
+msgctxt "#32893"
+msgid "Afghanistan"
+msgstr "Afgán"
+
+msgctxt "#32894"
+msgid "Albania"
+msgstr "Albán"
+
+msgctxt "#32895"
+msgid "Algeria"
+msgstr "Algéria"
+
+msgctxt "#32896"
+msgid "Antarctica"
+msgstr "Antarktisz"
+
+msgctxt "#32897"
+msgid "Argentina"
+msgstr "Argentína"
+
+msgctxt "#32898"
+msgid "Armenia"
+msgstr "Örményország"
+
+msgctxt "#32899"
+msgid "Australia"
+msgstr "Ausztrália"
+
+msgctxt "#32900"
+msgid "Austria"
+msgstr "Ausztria"
+
+msgctxt "#32901"
+msgid "Bangladesh"
+msgstr "Banglades"
+
+msgctxt "#32902"
+msgid "Belarus"
+msgstr "Fehéroroszország"
+
+msgctxt "#32903"
+msgid "Belgium"
+msgstr "Belgium"
+
+msgctxt "#32904"
+msgid "Brazil"
+msgstr "Brazilia"
+
+msgctxt "#32905"
+msgid "Bulgaria"
+msgstr "Bulgária"
+
+msgctxt "#32906"
+msgid "Cambodia"
+msgstr "Kambodzsa"
+
+msgctxt "#32907"
+msgid "Canada"
+msgstr "Kanada"
+
+msgctxt "#32908"
+msgid "Chile"
+msgstr "Chile"
+
+msgctxt "#32909"
+msgid "China"
+msgstr "Kína"
+
+msgctxt "#32910"
+msgid "Croatia"
+msgstr "Horvátország"
+
+msgctxt "#32911"
+msgid "Czech Republic"
+msgstr "Cseh Köztársaság"
+
+msgctxt "#32912"
+msgid "Denmark"
+msgstr "Dánia"
+
+msgctxt "#32913"
+msgid "Germany"
+msgstr "Németország"
+
+msgctxt "#32914"
+msgid "France"
+msgstr "Franciaország"
+
+msgctxt "#32915"
+msgid "Finland"
+msgstr "Finnország"
+
+msgctxt "#32916"
+msgid "Egypt"
+msgstr "Egyiptom"
+
+msgctxt "#32917"
+msgid "Greece"
+msgstr "Görögország"
+
+msgctxt "#32918"
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgctxt "#32919"
+msgid "Hungary"
+msgstr "Magyarország"
+
+msgctxt "#32920"
+msgid "Iceland"
+msgstr "Izland"
+
+msgctxt "#32921"
+msgid "India"
+msgstr "India"
+
+msgctxt "#32922"
+msgid "Indonesia"
+msgstr "Indonézia"
+
+msgctxt "#32923"
+msgid "Iran"
+msgstr "Irán"
+
+msgctxt "#32924"
+msgid "Iraq"
+msgstr "Irak"
+
+msgctxt "#32925"
+msgid "Ireland"
+msgstr "Írország"
+
+msgctxt "#32926"
+msgid "Israel"
+msgstr "Izrael"
+
+msgctxt "#32927"
+msgid "Italy"
+msgstr "Olaszország"
+
+msgctxt "#32928"
+msgid "Japan"
+msgstr "Japán"
+
+msgctxt "#32929"
+msgid "Malaysia"
+msgstr "Malajzia"
+
+msgctxt "#32930"
+msgid "Nepal"
+msgstr "Nepál"
+
+msgctxt "#32931"
+msgid "Netherlands"
+msgstr "Hollandia"
+
+msgctxt "#32932"
+msgid "New Zealand"
+msgstr "Új-Zéland"
+
+msgctxt "#32933"
+msgid "Norway"
+msgstr "Norvégia"
+
+msgctxt "#32934"
+msgid "Pakistan"
+msgstr "Pakisztán"
+
+msgctxt "#32935"
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgctxt "#32936"
+msgid "Peru"
+msgstr "Peru"
+
+msgctxt "#32937"
+msgid "Philippines"
+msgstr "Fülöp-szigetek"
+
+msgctxt "#32938"
+msgid "Poland"
+msgstr "Lengyelország"
+
+msgctxt "#32939"
+msgid "Portugal"
+msgstr "Portugália"
+
+msgctxt "#32940"
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+msgctxt "#32941"
+msgid "Romania"
+msgstr "Románia"
+
+msgctxt "#32942"
+msgid "Russian Federation"
+msgstr "Oroszországi Föderáció"
+
+msgctxt "#32943"
+msgid "Saudi Arabia"
+msgstr "Szaúd-Arábia"
+
+msgctxt "#32944"
+msgid "Serbia"
+msgstr "Szerbia"
+
+msgctxt "#32945"
+msgid "Singapore"
+msgstr "Szingapúr"
+
+msgctxt "#32946"
+msgid "Slovakia"
+msgstr "Szlovákia"
+
+msgctxt "#32947"
+msgid "Slovenia"
+msgstr "Szlovénia"
+
+msgctxt "#32948"
+msgid "South Africa"
+msgstr "Dél-Afrika"
+
+msgctxt "#32949"
+msgid "Spain"
+msgstr "Spanyolország"
+
+msgctxt "#32950"
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+msgctxt "#32951"
+msgid "Sweden"
+msgstr "Svédország"
+
+msgctxt "#32952"
+msgid "Switzerland"
+msgstr "Svájc"
+
+msgctxt "#32953"
+msgid "Thailand"
+msgstr "Thaiföld"
+
+msgctxt "#32954"
+msgid "Turkey"
+msgstr "Törökország"
+
+msgctxt "#32955"
+msgid "Ukraine"
+msgstr "Ukrajna"
+
+msgctxt "#32956"
+msgid "United Arab Emirates"
+msgstr "Egyesült Arab Emirátusok"
+
+msgctxt "#32957"
+msgid "United Kingdom"
+msgstr "Egyesült Királyság"
+
+msgctxt "#32958"
+msgid "United States"
+msgstr "Egyesült Államok"
+
+msgctxt "#32959"
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgctxt "#32960"
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgctxt "#32961"
+msgid "Viet Nam"
+msgstr "Vietnám"
+
+msgctxt "#32962"
+msgid "Yemen"
+msgstr "Jemen"
+
+msgctxt "#32963"
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+msgctxt "#32964"
+msgid "Jump To..."
+msgstr "Ugrás a következőhöz..."
+
+msgctxt "#32965"
+msgid "None"
+msgstr "Nincs"
+
+msgctxt "#32966"
+msgid "Please go to [B]https://trakt.tv/activate[/B] and enter the code"
+msgstr "Kérjük, lépj a [B]https://trakt.tv/activate[/B] weboldalra, és add meg a kódot"
+
+msgctxt "#32967"
+msgid "Trakt & Ezra Watched Status"
+msgstr "Trakt & Ezra megtekintett státusz"
+
+msgctxt "#32968"
+msgid "Checking %s Watched Status"
+msgstr "Ellenőrzés %s megtekintett státusz"
+
+msgctxt "#32969"
+msgid "Syncing %s Watched Status"
+msgstr "Szinkronizálás %s megtekintett státusz"
+
+msgctxt "#32971"
+msgid "MONDAY"
+msgstr "HÉTFŐ"
+
+msgctxt "#32972"
+msgid "TUESDAY"
+msgstr "KEDD"
+
+msgctxt "#32973"
+msgid "WEDNESDAY"
+msgstr "SZERDA"
+
+msgctxt "#32974"
+msgid "THURSDAY"
+msgstr "CSÜTÖRTÖK"
+
+msgctxt "#32975"
+msgid "FRIDAY"
+msgstr "PÉNTEK"
+
+msgctxt "#32976"
+msgid "SATURDAY"
+msgstr "SZOMBAT"
+
+msgctxt "#32977"
+msgid "SUNDAY"
+msgstr "VASÁRNAP"
+
+msgctxt "#32982"
+msgid "[B]Download Archive[/B]"
+msgstr "[B]Letöltési archívum[/B]"
+
+msgctxt "#32983"
+msgid "No New Items"
+msgstr "Nincsenek új elemek"
+
+msgctxt "#32984"
+msgid "Trivia"
+msgstr "Kvíz (Trivia)"
+
+msgctxt "#32985"
+msgid "Contains Spoilers"
+msgstr "Spoilereket tartalmaz"
+
+msgctxt "#32986"
+msgid "Blunders"
+msgstr "Hibák"
+
+msgctxt "#32987"
+msgid "Info"
+msgstr "Információ"
+
+msgctxt "#32989"
+msgid "Parental Guide"
+msgstr "Szülői útmutató"
+
+msgctxt "#32990"
+msgid "Sex & Nudity"
+msgstr "Szex és meztelenség"
+
+msgctxt "#32991"
+msgid "Violence & Gore"
+msgstr "Erőszak és vérontás"
+
+msgctxt "#32992"
+msgid "Profanity"
+msgstr "Trágárság"
+
+msgctxt "#32993"
+msgid "Alcohol, Drugs & Smoking"
+msgstr "Alkohol, drogok és dohányzás"
+
+msgctxt "#32994"
+msgid "Frightening & Intense Scenes"
+msgstr "Ijesztő és intenzív jelenetek"
+
+msgctxt "#32996"
+msgid "Mild"
+msgstr "Enyhe"
+
+msgctxt "#32997"
+msgid "Moderate"
+msgstr "Mérsékelt"
+
+msgctxt "#32998"
+msgid "Severe"
+msgstr "Súlyos"
+
+msgctxt "#33000"
+msgid "Confirm"
+msgstr "Megerősítés"
+
+msgctxt "#33003"
+msgid "Enable Season/Show Pack Search"
+msgstr "Szezon/Show csomag keresés engedélyezése"
+
+msgctxt "#33004"
+msgid "[B]Browse Pack[/B]"
+msgstr "[B]Csomag böngészése[/B]"
+
+msgctxt "#33005"
+msgid "Image Files Directory"
+msgstr "Képfájlok könyvtára"
+
+msgctxt "#33006"
+msgid "Check Year Before Search"
+msgstr "Ellenőrizze az évet a keresés előtt"
+
+msgctxt "#33007"
+msgid "API Version"
+msgstr "API Verzió"
+
+msgctxt "#33008"
+msgid "Version 2"
+msgstr "Verzió 2"
+
+msgctxt "#33009"
+msgid "Version 3"
+msgstr "Verzió 3"
+
+msgctxt "#33013"
+msgid "Default"
+msgstr "Alapértelmezett"
+
+msgctxt "#33014"
+msgid "Choose Files"
+msgstr "Fájlok kiválasztása"
+
+msgctxt "#33015"
+msgid "Use Torrent Services"
+msgstr "Torrent szolgáltatások használata"
+
+msgctxt "#33016"
+msgid "Use Hoster Services"
+msgstr "Hoszter szolgáltatások használata"
+
+msgctxt "#33017"
+msgid "Set Language Invoker (ADVANCED!!)"
+msgstr "Nyelvi behívó beállítása (HALADÓ!!)"
+
+msgctxt "#33018"
+msgid ""
+"[B]Reuse Langauage Invoker[/B] is currently set to %s.\n"
+"\n"
+"Do you wish to change this setting to %s?"
+msgstr ""
+"[B]Nyelvi behívó újra használata[/B] jelenleg %s értékre van állítva.\n"
+"\n"
+"Szeretné ezt a beállítást %s-re módosítani?"
+
+msgctxt "#33019"
+msgid "Changing this setting can create problems within Ezra. Continue?"
+msgstr "Ennek a beállításnak a megváltoztatása problémákat okozhat az Ezra-ban. Biztos folytatod?"
+
+msgctxt "#33020"
+msgid "Ezra will reload your profile to refresh the addon.xml"
+msgstr "Ezra újra tölti a profilodat, hogy frissítse az addon.xml-t"
+
+msgctxt "#33021"
+msgid "[B]Reuse Language Invoker[/B] SETTING/XML mismatch"
+msgstr "[B]Nyelvi behívó újra használata[/B] BEÁLLÍTÁS/XML eltérés"
+
+msgctxt "#33022"
+msgid "No Trakt or IMDb Account Detected"
+msgstr "Nincs Trakt vagy IMDb fiók észlelve"
+
+msgctxt "#33023"
+msgid "Start Full Scrape"
+msgstr "Teljes Scrape indítása"
+
+msgctxt "#33024"
+msgid "Enabled"
+msgstr "Engedélyezve"
+
+msgctxt "#33025"
+msgid "My Accounts"
+msgstr "Saját fiókjaim (My Accounts)"
+
+msgctxt "#33026"
+msgid "My Accounts Manager"
+msgstr "Saját fiók menedzser"
+
+msgctxt "#33027"
+msgid "Open My Accounts  [I](Enter Account Details Here)[/I]"
+msgstr "Saját fiókjaim megnyitása [I](Itt add meg a fiók adatait)[/I]"
+
+msgctxt "#33028"
+msgid "(Re)Sync Ezra Settings with My Accounts"
+msgstr "Ezra beállítások (újra)szinkronizálása a saját fiók adataimmal (My Accounts)"
+
+msgctxt "#33029"
+msgid "[I]Please visit My Accounts to change settings[/I]"
+msgstr "[I]A beállítások módosításához látogass el a saját fiókokhoz (My Account)[/I]"
+
+msgctxt "#33030"
+msgid "Settings Updated"
+msgstr "Beállítások frissítve"
+
+msgctxt "#33031"
+msgid "Hoster"
+msgstr "Hoszter"
+
+msgctxt "#33032"
+msgid "Videos"
+msgstr "Videok"
+
+msgctxt "#33036"
+msgid "CLEAR %s:  [I]%s[/I]"
+msgstr "TISZTÍTÁS %s:  [I]%s[/I]"
+
+msgctxt "#33037"
+msgid "[B]EXTRAS:[/B] %s"
+msgstr "[B]EXTRÁK:[/B] %s"
+
+msgctxt "#33038"
+msgid "Extras"
+msgstr "Extrák"
+
+msgctxt "#33040"
+msgid "Exclude Non Acting Roles in Person Results"
+msgstr "A nem színészi szerepek kizárása a személyek keresési eredményeiből"
+
+msgctxt "#33041"
+msgid "On Deck"
+msgstr "A fedélzeten"
+
+msgctxt "#33045"
+msgid "Tagged"
+msgstr "Megjelöltek"
+
+msgctxt "#33046"
+msgid "%s of %s Watched"
+msgstr "%s -ból %s megtekintve"
+
+msgctxt "#33048"
+msgid "Watched Status"
+msgstr "Megtekintve státusz"
+
+msgctxt "#33049"
+msgid "Watched Progress"
+msgstr "Megtekintve folyamatban"
+
+msgctxt "#33051"
+msgid "Slideshow"
+msgstr "Diavetítés"
+
+msgctxt "#33057"
+msgid "Sci-Fi & Fantasy"
+msgstr "Sci-Fi és Fantasy"
+
+msgctxt "#33058"
+msgid "%smins"
+msgstr "%sperc"
+
+msgctxt "#33059"
+msgid "Duration"
+msgstr "Időtartam"
+
+msgctxt "#33060"
+msgid "Production Status"
+msgstr "A gyártás állapota"
+
+msgctxt "#33061"
+msgid "Press BACK to Exit"
+msgstr "Nyomja meg a VISSZA gombot a kilépéshez"
+
+msgctxt "#33062"
+msgid "Finish Watching"
+msgstr "Befejezni a megtekintést"
+
+msgctxt "#33063"
+msgid "Playback Volume"
+msgstr "Lejátszási hangerő"
+
+msgctxt "#33064"
+msgid "Check Playback Volume Before Start of Playback"
+msgstr "A lejátszás hangerejének ellenőrzése a lejátszás megkezdése előtt"
+
+msgctxt "#33065"
+msgid "Set Max. Percent Starting Volume (0-100)"
+msgstr "Állítsa be a Max. százalékos induló hangerőt (0-100)"
+
+msgctxt "#40001"
+msgid "[B]Ezra: Refresh Widgets[/B]"
+msgstr "[B]Ezra: Widgetek frissítése[/B]"
+
+msgctxt "#40002"
+msgid "[B]Ezra: Browse...[/B]"
+msgstr "[B]Ezra: Böngészés...[/B]"
+
+msgctxt "#40003"
+msgid "[B]Ezra: Mark Watched[/B]"
+msgstr "[B]Ezra: Megtekintettnek jelöl[/B]"
+
+msgctxt "#40004"
+msgid "[B]Ezra: Mark Unwatched[/B]"
+msgstr "[B]Ezra: Megnézetlennek jelöl[/B]"
+
+msgctxt "#40005"
+msgid "[B]Ezra: Trakt Lists Manager[/B]"
+msgstr "[B]Ezra: Trakt Lista menedzser[/B]"
+
+msgctxt "#40006"
+msgid "[B]Ezra: Extras...[/B]"
+msgstr "[B]Ezra: Extrák...[/B]"
+
+msgctxt "#40007"
+msgid "[B]Ezra: Options...[/B]"
+msgstr "[B]Ezra: Beállítások...[/B]"
+
+msgctxt "#40008"
+msgid "[B]Ezra: Favorites Manager[/B]"
+msgstr "[B]Ezra: Kedvencek menedzser[/B]"
+
+msgctxt "#40009"
+msgid "[B]Ezra: Clear Progress[/B]"
+msgstr "[B]Ezra: Tisztítási folyamat[/B]"
+
+msgctxt "#40010"
+msgid "[B]Ezra: Play Random[/B]"
+msgstr "[B]Ezra: Véletlenszerű lejátszás[/B]"
+
+msgctxt "#40011"
+msgid "[B]Ezra: Browse Season...[/B]"
+msgstr "[B]Ezra: Évadok böngészése...[/B]"

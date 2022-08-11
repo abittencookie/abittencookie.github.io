@@ -1,0 +1,407 @@
+
+[B][COLOR red]Update - v2.1.1 - Jan. 08, 2022[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] rlsbb's "old3.proxybb.com" appears to no longer be functional so this has been disabled.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed EasyNews title check issue when meta title contains the character [B]"/"[/B], ex. [B]"Mother/Android"[/B].  This was missed in previous update[/I]
+[COLOR yellow]--[/COLOR][I] BT4G scraper has been removed.  Site is now behind Cloudflare V2 challenge and no solve available.[/I]
+[COLOR yellow]--[/COLOR][I] EXT.TO scraper has returned with a new proxy in use.[/I]
+
+
+[B][COLOR red]Update - v2.1.0 - Dec. 25, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] A number of regex optimizations, and usage reduction to scrapers.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed title check issue when meta title contains the character [B]"/"[/B], ex. [B]"Mother/Android"[/B].[/I]
+[COLOR yellow]--[/COLOR][I] Fixed yourbittorrent scraper domain change.[/I]
+[COLOR yellow]--[/COLOR][I] Improvements to torrentio scraper for foreign audio only track sources being returned.[/I]
+[COLOR yellow]--[/COLOR][I] Added missing Dutch language translation strings.[/I]
+
+
+[B][COLOR red]Update - v2.0.9 - Dec. 16, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed torrentz2 query change, again.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed performance issue with torrentdownloads index.[/I]
+[COLOR yellow]--[/COLOR][I] Added, updated, missing .po strings.[/I]
+[COLOR yellow]--[/COLOR][I] Moved "foreign_audio" settings check outside "for" loop in all scrapers.[/I]
+
+
+[B][COLOR red]Update - v2.0.8 - Dec. 15, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] The Undesirables list has been re-written and converted to utilize an sqlite3 database.  There is also now an additional setting option to allowing clearing of custom entries added to the database.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed torrentz2 url and search query change.[/I]
+[COLOR yellow]--[/COLOR][I] Few scraper performance tweaks.[/I]
+[COLOR yellow]--[/COLOR][I] Moved "undesirables" settings check outside "for" loop in all scrapers.[/I]
+
+
+[B][COLOR red]Update - v2.0.7 - Dec. 10, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fix for [[B]"undesirables.choice"[/B] setting becoming corrupt.  Note this will reset the list back to default.[/I]
+[COLOR yellow]--[/COLOR][I] Few small tweaks to scraper timeout values.[/I]
+[COLOR yellow]--[/COLOR][I] Added [B]"good.people"[/B] to list of undesirables.[/I]
+
+
+[B][COLOR red]Update - v2.0.6 - Dec. 09, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed issue where "Hindi" only audio tracks were not respecting setting to remove.[/I]
+[COLOR yellow]--[/COLOR][I] Expanded the list of abreviated language codes for better detection of single foreign audio tracks for removal.[/I]
+[COLOR yellow]--[/COLOR][I] Added [B]"casstudio.tv"[/B] to list of undesirables due to group uploads of incomplete pack files.[/I]
+[COLOR yellow]--[/COLOR][I] Added [B]"pa.web.dl"[/B] to list of undesirables due to group uploads of single Russian only language tracks.[/I]
+
+
+[B][COLOR red]Update - v2.0.5 - Nov. 28, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Removed SOLIDTORRENTS scraper due to it being a mirror of the new BITSEARCH scraper.[/I]
+[COLOR yellow]--[/COLOR][I] Removed TORRENTPARADISE scraper due to dead search query now javascript.[/I]
+[COLOR yellow]--[/COLOR][I] Added new TORRENTIO scraper.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed bogus logging error with TORRENTAPI.[/I]
+
+
+[B][COLOR red]Update - v2.0.4 - Nov. 23, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] SOLIDTORRENTS and BITCQ have been set to disabled by default due to considerable timeout issues of late.[/I]
+[COLOR yellow]--[/COLOR][I] Removed sleep state from TORRENTAPI since is still fails to solve rnadom query error responses.[/I]
+[COLOR yellow]--[/COLOR][I] Added timeout value to cfscrape calls.[/I]
+[COLOR yellow]--[/COLOR][I] Added rounding of file size to 2 decimal places in return dict.[/I]
+
+
+[B][COLOR red]Update - v2.0.3 - Nov. 19, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed typo in SCENERLS hoster causing scrape failures in addons.[/I]
+[COLOR yellow]--[/COLOR][I] Added BITSEARCH torrent scraper.[/I]
+
+
+[B][COLOR red]Update - v2.0.2 - Nov. 17, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Changed import method and status checking across all scrapers.[/I]
+
+
+[B][COLOR red]Update - v2.0.1 - Nov. 15, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Added [B]"audiobook"[/B] to UNDESIRABLES.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed issue where newly added UNDESIRABLE items were not be added to users custom UNDESIRABLES filter.[/I]
+
+
+[B][COLOR red]Update - v2.0.0 - Nov. 14, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] First official py3 only version for Kodi Matrix.[/I]
+[COLOR yellow]--[/COLOR][I] cfscrape updated to v1.2.59.[/I]
+
+
+[B][COLOR red]Update - v1.6.0 - Nov. 12, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed aliases handling.[/I]
+[COLOR yellow]--[/COLOR][I] Removed EXTRATORRENT scraper. Proxy is now cloudflare v2 challenge and dead.[/I]
+
+
+[B][COLOR red]Update - v1.5.9 - Nov. 09, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed release_title issue for TV Show "4400".[/I]
+
+
+[B][COLOR red]Update - v1.5.8 - Nov. 08, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] All providers have been re-written to remove old encoding methods.[/I]
+
+
+[B][COLOR red]Update - v1.5.7 - Nov. 05, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Added EXTRATORRENT back in per request of proxy found.  This is officially my LAST attempt to keep this scraper alive.[/I]
+[COLOR yellow]--[/COLOR][I] GDRIVE scraper re-written to follow standard FenomScraper methods and title checking.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed TORRENTZ2 for site query change.[/I]
+
+
+[B][COLOR red]Update - v1.5.6 - Nov. 02, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Removed EXTRATORRENT scraper, site appears dead.[/I]
+[COLOR yellow]--[/COLOR][I] Added BTCQ scraper.[/I]
+
+
+[B][COLOR red]Update - v1.5.5 - Oct. 30, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Added [B]".p.web.dl"[/B] and [B]".d.web.dl"[/B] to undesirables list.  These have been identified as Russian only audio tracks[/I]
+
+
+[B][COLOR red]Update - v1.5.4 - Sept. 25, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Improved regex range check of show packs.  This helps to pull a few new sources that previously failed.[/I]
+[COLOR yellow]--[/COLOR][I] BITLORD scraper tweak to deal with their size reporting MB vs GB from one source link to the next.[/I]
+
+
+[B][COLOR red]Update - v1.5.3 - Sept. 21, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Added quality check for 1O8Op and 72Op where some uploaders are using the letter "O" vs a zero.[/I]
+[COLOR yellow]--[/COLOR][I] EasyNews tweaks and now pulls in a few additional sources.[/I]
+[COLOR yellow]--[/COLOR][I] Library scraper tweaks, source file name was not being passed.[/I]
+
+
+[B][COLOR red]Update - v1.5.2 - Sept. 19, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed encoding issue when opening changelog file.[/I]
+
+
+[B][COLOR red]Update - v1.5.1 - Sept. 19, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed missing [B]"amp;"[/B] in settings.xml causing settings cleaner to error.[/I]
+
+
+[B][COLOR red]Update - v1.5.0 - Sept. 18, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] [B]"Ultradox"[/B] Russian group has been added to list of undesirables.[/I]
+[COLOR yellow]--[/COLOR][I] You can now view, clear, and upload to pastebin the FenomScrapers log file.  See new settings under [B]"Debug"[/B] category.[/I]
+
+
+[B][COLOR red]Update - v1.4.9 - Sept. 09, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] [B]"Extratorrent"[/B] scraper site is back up.[/I]
+[COLOR yellow]--[/COLOR][I] Few tweaks to magnetdl scraper for title issue due to site query phrase restrictions.[/I]
+
+
+[B][COLOR red]Update - v1.4.8 - Sept. 06, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] [B]"Extratorrent"[/B] and [B]"Magnet4you"[/B] scrapers have been removed, sites appear to be dead.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed size reporting issue from [B]"Torrentproject2"[/B].[/I]
+
+
+[B][COLOR red]Update - v1.4.7 - Aug. 27, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Dutch lang file update.[/I]
+[COLOR yellow]--[/COLOR][I] ETTV fixed size and seeder reporting.[/I]
+[COLOR yellow]--[/COLOR][I] SOLIDTORRENTS, changed to sort by seeders.[/I]
+
+
+[B][COLOR red]Update - v1.4.6 - Aug. 25, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Added ability to return all scraper sources to support addons bypassing provider setting.[/I]
+
+
+[B][COLOR red]Update - v1.4.5 - Aug. 15, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Small info label tweaks to Furk, Ororo, and Gdrive scrapers.[/I]
+
+
+[B][COLOR red]Update - v1.4.4 - Aug. 01, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed [B]torrentfunk[/B] name and size parsing random issue.[/I]
+
+
+[B][COLOR red]Update - v1.4.3 - July 26, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed [B]300mbfilms[/B].[/I]
+[COLOR yellow]--[/COLOR][I] Scrapers no longer set any source "extra_info".  Addons will now be responsible to set their own.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed random issue where returned source from [B]eztv[/B] may have null value for a size.[/I]
+
+
+[B][COLOR red]Update - v1.4.2 - July 03, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] btdb scraper removed.  Domain no longer exists.[/I]
+[COLOR yellow]--[/COLOR][I] Added new "torrentproject2" scraper.[/I]
+[COLOR yellow]--[/COLOR][I] glodls scraper is now pack capable.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed extratorrent scraper stopped returning seeder count.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed torrentz2 scraper stopped returning seeder count.[/I]
+[COLOR yellow]--[/COLOR][I] 7torrents scraper default has been changed to off.  Server timeout frequently occurs.[/I]
+
+
+[B][COLOR red]Update - v1.4.1 - May 26, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] 7torrents scraper is back and no longer behind Cloudflare, for now.[/I]
+[COLOR yellow]--[/COLOR][I] btdig scraper removed, reCaptcha.[/I]
+
+
+[B][COLOR red]Update - v1.4.0 - May 20, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed issue with custom Undesirables input not converted to .lower().[/I]
+[COLOR yellow]--[/COLOR][I] Undesirables list is now a windows property for speed of access.[/I]
+[COLOR yellow]--[/COLOR][I] All settings are now converted to using window properties for speed.  Kodi's .getSetting() is extremely slow.[/I]
+
+
+[B][COLOR red]Update - v1.3.9 - May 19, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Improved CAM detection of source links where 1080p and 720p may also be present in release_link.[/I]
+[COLOR yellow]--[/COLOR][I] "1xbet" and "betwin" have been added to CAM detection.[/I]
+
+
+[B][COLOR red]Update - v1.3.8 - May 18, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Torrent.tm site appears dead so scraper is removed.[/I]
+[COLOR yellow]--[/COLOR][I] Added new Undesirables customization list where you can now enable or disable individual groups.  You can also add
+    your own specific group you may dislike.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed gdrive scraper not setting Info for 3D links.[/I]
+
+
+[B][COLOR red]Update - v1.3.7 - April 13, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Updated cfscrape(aka cloudscraper) to v1.2.58.  Note Venomous removed py2 support so this is a modified version to keep py2 support.[/I]
+
+
+[B][COLOR red]Update - v1.3.6 - April 05, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Removed skytorrent scraper, Cloudflare v2 challenge.[/I]
+[COLOR yellow]--[/COLOR][I] Removed Cloudflare logging entry left behind and was spamming the FenomScrapers log.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed issue with show pack filtering missing removal of some obscure named pack files that did not apply to current episode of a season.[/I]
+
+
+[B][COLOR red]Update - v1.3.5 - March 26, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed title check failures on "vs." and "v." in meta titles.  This caused no sources returned[/I]
+
+
+[B][COLOR red]Update - v1.3.4 - March 16, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Matrix fix for xbmc.translatePath.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed bogus log error from torrentparadise scraper.[/I]
+[COLOR yellow]--[/COLOR][I] Note btscene has returned so will not be removing.[/I]
+[COLOR yellow]--[/COLOR][I] skytorrents appears to have gone Cloudflare v2 challenge.  Will remove in future update.  Suggest to turn off.[/I]
+[COLOR yellow]--[/COLOR][I] gdrive scraper title checking has been improved.  There is also a new setting option to disable the title checking if you feel a title is in your gdrive but is not being pulled in.[/I]
+
+
+[B][COLOR red]Update - v1.3.3 - March 12, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] btscene is now off by default.  Site appears to be dead and gone.  Will leave for a week and if not returned it will be removed.[/I]
+[COLOR yellow]--[/COLOR][I] Added new torrent scraper, torrentparadise.  Scraper is on by default since it is an api and extremely fast.[/I]
+
+
+[B][COLOR red]Update - v1.3.2 - March 06, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Matrix(py3) compatibility update.[/I]
+
+
+[B][COLOR red]Update - v1.3.1 - Feb. 20, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Enhancements to EasyNews title check.[/I]
+[COLOR yellow]--[/COLOR][I] Added setting to disable EasyNews title check, see new Help file.[/I]
+
+
+[B][COLOR red]Update - v1.3.0 - Feb. 17, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] EXT torrent scraper has been removed due to Cloudflare v2 challenge.[/I]
+[COLOR yellow]--[/COLOR][I] New torrent scraper added, TORRENTTM.[/I]
+[COLOR yellow]--[/COLOR][I] Default enabled scrapers updated.[/I]
+[COLOR yellow]--[/COLOR][I] It has been decided that since RD is the only debrid provider that terminates a cache check request upon receiving magnets with BASE32 encoded hashes that the addon should deal with this.  RD would require these BASE32 encodes to be converted to HEX while AD and PM do the conversions for you.[/I]
+
+
+[B][COLOR red]Update - v1.2.9 - Feb. 14, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] EXT torrent scraper appears down and has be set to off by default.[/I]
+[COLOR yellow]--[/COLOR][I] EZTV site seems to return invalid magnets where the hash is less than the required 40 character length.  All scrapers now have a check added for this.  Real-Debrid terminates a request if it receives one of these invalid magnets.  This should improve addons cache check results with RD.[/I]
+
+
+[B][COLOR red]Update - v1.2.8 - Feb. 10, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] RLSBB works once again.  Few tweaks for query of older titles.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed EXT torrent scraper.  Site was switched to cloudflare v2 challenge now but proxy found.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed bogus log errors in BT4G and ISOHUNT2.[/I]
+
+
+[B][COLOR red]Update - v1.2.7 - Feb. 02, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Added threading to "torrentfunk" and yourbittorent" for pack file scaping performance increase.[/I]
+[COLOR yellow]--[/COLOR][I] Added priority to "torrentInfo" help file.[/I]
+[COLOR yellow]--[/COLOR][I] Modules cleanup of unused functions.[/I]
+
+
+[B][COLOR red]Update - v1.2.6 - Jan. 31, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed "torrentapi". Site is now behind cloudflare so cfscrape has been added.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed "isohunt2".  This is a 2 request scraper and has now been converted to threaded second request of result links.  Now significantly faster.[/I]
+[COLOR yellow]--[/COLOR][I] Updated cfscrape(aka cloudscraper) to v1.2.56.  Note Venomous removed py2 support so this is a modified version to keep py2 support.[/I]
+[COLOR yellow]--[/COLOR][I] Significant changes to regex patterns for efficiency, step reducing and to minimize backtracking.[/I]
+[COLOR yellow]--[/COLOR][I] Improvements to filtering out single foreign audio only sources.[/I]
+
+
+[B][COLOR red]Update - v1.2.5 - Jan. 22, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] fixed "btdb" for changes to html elements. Working once again.[/I]
+[COLOR yellow]--[/COLOR][I] fixed "easynews" filter for episodes failed.[/I]
+
+
+[B][COLOR red]Update - v1.2.4 - Jan. 17, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] new proxy for "skytorrents". Works once again.[/I]
+
+
+[B][COLOR red]Update - v1.2.3 - Jan. 17, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Added "btdig" torrent scraper.[/I]
+[COLOR yellow]--[/COLOR][I] "easynews" scraper update.[/I]
+[COLOR yellow]--[/COLOR][I] "furk" scraper update.[/I]
+[COLOR yellow]--[/COLOR][I] "idope" scraper rewritten for new proxy site. Works once again.[/I]
+[COLOR yellow]--[/COLOR][I] "rlsbb" proxy now v2 challenge.  Will remove in next update if proxy not found.[/I]
+[COLOR yellow]--[/COLOR][I] "source_utils" module update to support year range checks of titles.[/I]
+
+
+[B][COLOR red]Update - v1.2.2 - Jan. 15, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] fixed typo in "bt4g" scraper.[/I]
+
+
+[B][COLOR red]Update - v1.2.1 - Jan. 15, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] new proxy to fix "btdb" scraper due to new v2 challenge.[/I]
+[COLOR yellow]--[/COLOR][I] new proxy to fix "extratorrent" scraper due to new v2 challenge.[/I]
+[COLOR yellow]--[/COLOR][I] "skytorrents" scraper removed due to new v2 challenge.[/I]
+[COLOR yellow]--[/COLOR][I] new "bt4g" torrent scraper added.[/I]
+[COLOR yellow]--[/COLOR][I] "idope" scraper appears to now be v2 challange as of today.  Will remove in next update if proxy not found.[/I]
+
+
+[B][COLOR red]Update - v1.2.0 - Jan. 08, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] rlsbb has been completely rewritten to better parse the sites comment section.  This now produces more accurate results.[/I]
+[COLOR yellow]--[/COLOR][I] cfscrape(aka cloudscraper) has been updated to v1.2.52.[/I]
+[COLOR yellow]--[/COLOR][I] kickass2 now uses the query param for file size and sort=desc.  Better quality results are now returned.[/I]
+
+
+[B][COLOR red]Update - v1.1.9 - Jan. 04, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Removed 2ddl scraper lost to Cloudflare v2 challenge.[/I]
+[COLOR yellow]--[/COLOR][I] rapidmoviez scraper was resurrected in v1.17 and I neglected to list that in changelog.[/I]
+[COLOR yellow]--[/COLOR][I] rlsbb scraper has been resurrected and using a new proxy that is not Cloudflare v2 challenge.[/I]
+
+
+[B][COLOR red]Update - v1.1.8 - Jan. 01, 2021[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Added "exkinoray" group filter to undesirables.  Removes single Russian audio trakts.[/I]
+[COLOR yellow]--[/COLOR][I] Updated "easynews" title check for better title matches.[/I]
+
+
+[B][COLOR red]Update - v1.1.7 - Dec. 30, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] 7torrents torrent scraper removed due to Cloudflare v2 challenge.[/I]
+[COLOR yellow]--[/COLOR][I] Moviemagnet torrent scraper removed, site appears to be dead.[/I]
+[COLOR yellow]--[/COLOR][I] Removed rlsbb and watchseries hosters due to Cloudflare v2 challenge.[/I]
+[COLOR yellow]--[/COLOR][I] Removed ganool, onlineseries, and watchseriestv hosters.  Hosters appear to be dead.[/I]
+[COLOR yellow]--[/COLOR][I] Updated all scrapers to pass "link_name" to be shown by addon.[/I]
+[COLOR yellow]--[/COLOR][I] Item above now allows source select to be shown with "link_name" for all vs. old standard info line.[/I]
+[COLOR yellow]--[/COLOR][I] Removed 5movies, cartoonhd, filmxy, watchepisodes, and watchserieshd.  These sites do not provide the minimum standard of file info for addon display so they are removed.[/I]
+[COLOR yellow]--[/COLOR][I] Added new Heading section groups to "Premium Hosters".  Account Required scrapers, and Local Scrapers are now grouped.[/I]
+[COLOR yellow]--[/COLOR][I] Removed unused modules for above changes.[/I]
+[COLOR yellow]--[/COLOR][I] Removed unused functions for above changes.[/I]
+
+
+[B][COLOR red]Update - v1.1.6 - Dec. 18, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Moviemagnet.co looks to be dead and gone.  Scraper is now removed.[/I]
+[COLOR yellow]--[/COLOR][I] Solidtorrents site is back to working so default switched to "ON".[/I]
+[COLOR yellow]--[/COLOR][I] Solidtorrents was previously incorrectly listed as a single html request site. Solidtorrents is an api and has been fixed in the "torrentInfo" file.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed a few "release_title" format issues.[/I]
+
+
+[B][COLOR red]Update - v1.1.5 - Dec. 3, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] 7torrents scraper switched base_url to "7torrents.cc" since "7torr.com" is a btscene mirror.[/I]
+[COLOR yellow]--[/COLOR][I] Torrentz2 new domain and back to working again.  New domain is now a single request with magnets on results page so the scraper has also been converted to pack capable.[/I]
+[COLOR yellow]--[/COLOR][I] Added torrent specific Help info to the "Torrents" category in Settings.  This lists what torrents are api requests, single html parsed, and two request html parsed(slow). Also lists which scrapers use cfscrape module.[/I]
+[COLOR yellow]--[/COLOR][I] Added "Clean Settings File" action to the "General" category in Settings. This will also auto run when a new update install detected.[/I]
+
+
+[B][COLOR red]Update - v1.1.4 - Nov. 30, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] YTS scraper has been re-written to utilize the yts.mx api.  the query uses the imdb_id so results are now more accurate than before.  File size is also returned in the api response that we did not have site wide before.[/I]
+[COLOR yellow]--[/COLOR][I] Torrentz2 and Solidtorrents has been down for a few days now so their default has been switched to "false".[/I]
+
+
+[B][COLOR red]Update - v1.1.3 - Nov. 28, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Added a new filter to all scrapers for query results when a movie title exists and a show with same tile and year also exists.  The new filter will now check Movie results for season info and remove those results.  A perfect example is the movie "Run (2020)" a show also exists with the same title and previously returned results.  The new filter will now remove those show results.[/I]
+
+
+[B][COLOR red]Update - v1.1.2 - Nov. 20, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed eztv torrent scraper.[/I]
+[COLOR yellow]--[/COLOR][I] extratorrent scraper resurrected.  Scraper has also been converted to pack capable.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed some bogus log errors when url timeout occurs.[/I]
+
+
+[B][COLOR red]Update - v1.1.1 - Oct. 30, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed duplicate entry in settings.xml for Easynews.[/I]
+[COLOR yellow]--[/COLOR][I] Added fanart.png for addon.[/I]
+
+
+[B][COLOR red]Update - v1.1.0 - Oct. 29, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Added Google Drive scraper. See url setup in "My Accounts" addon.[/I]
+[COLOR yellow]--[/COLOR][I] Removed extratorrent scraper.  Main site is gone and proxy mirror's query returns useless results.[/I]
+
+
+[B][COLOR red]Update - v1.0.9 - Oct. 13, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed typo in previous eztv query change.[/I]
+[COLOR yellow]--[/COLOR][I] Removed release_year from trakt aliases.  This caused the title check for some random shows to fails.  This should fix the random issues for you "Big Brother" show fans.[/I]
+
+
+[B][COLOR red]Update - v1.0.8 - Oct. 12, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Filter tweaks for better alias title matching.[/I]
+[COLOR yellow]--[/COLOR][I] Switched piratebay(pack files only), torrentapi, and torrentgalaxy(movies and pack files) to now use imdb_id for query.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed ext.to retreives random ".\." in magnet hash.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed eztv title query for meta titles containing dashes.[/I]
+[COLOR yellow]--[/COLOR][I] Updated cfscrape to v1.2.48.[/I]
+
+
+[B][COLOR red]Update - v1.0.7 - Oct. 9, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Added "ext.to" torrent scraper.[/I]
+[COLOR yellow]--[/COLOR][I] Fix for "My Accounts" sync notification not being displayed.[/I]
+[COLOR yellow]--[/COLOR][I] Few default scraper changes.[/I]
+
+
+[B][COLOR red]Update - v1.0.6 - Oct. 5, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] fixed skytorrents scraper for url change.[/I]
+COLOR yellow]--[/COLOR][I] btdb scraper resurrected.  Site has reverted back to non-cloudflare v2 challenge.  Scraper is also now pack capable[/I]
+COLOR yellow]--[/COLOR][I] torrentz2 scraper resurrected.  Site has reverted back to non-cloudflare v2 challenge.[/I]
+
+
+[B][COLOR red]Update - v1.0.5 - Oct. 3, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Added Danish translation. Huge thanks to TINUZ97!![/I]
+[COLOR yellow]--[/COLOR][I] Code changes for My Accounts compatibility.[/I]
+
+
+[B][COLOR red]Update - v1.0.4 - Sept. 30, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed library scraper.[/I]
+[COLOR yellow]--[/COLOR][I] Couple more tweaks to show packs filter.[/I]
+[COLOR yellow]--[/COLOR][I] Cleanup of unneeded modules and functions.[/I]
+[COLOR yellow]--[/COLOR][I] Added ENG translation file.[/I]
+
+
+[B][COLOR red]Update - v1.0.3 - Sept. 29, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed Library scraper error halting results.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed filepursuit api key failing to import from "My Accounts".[/I]
+[COLOR yellow]--[/COLOR][I] Fixed toggle for Pack Capable scrapers to first disable all torrents and then enable pack capable only scrapers.[/I]
+[COLOR yellow]--[/COLOR][I] Few filter tweaks for show packs returning out of range results when season separator was a tilde mark.[/I]
+
+
+[B][COLOR red]Update - v1.0.2 - Sept. 25, 2020[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Initial commit.[/I]
