@@ -2,7 +2,7 @@ id="plugin.program.bittenwizard"
 version="1.0.0"
 zip="https://github.com/abittencookie/abittencookie.github.io/blob/master/plugin.program.bittenwizard.zip"
 
-name="bittenwizard"
+name="bittenbuild"
 version="1.0.0"
 url="https://www.dropbox.com/s/3ml02a6u881back/bittenbuild.zip?dl=0"
 minor="http://"
