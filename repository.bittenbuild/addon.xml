@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="bittenbuild" name="abittencookie.github.io" version="1.0.0" provider-name="abittencookie">
+    <extension point="xbmc.addon.repository" name="abittencookie.github.io">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/abittencookie/abittencookie.github.io/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/abittencookie/abittencookie.github.io/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/abittencookie/abittencookie.github.io/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Bitten_Build</summary>
+        <description>Simple Kodi Wizard</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
