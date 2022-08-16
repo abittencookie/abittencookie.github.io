@@ -904,9 +904,9 @@ fix to properly parse show ID from NFO file
             <screenshot>resources/screenshot-03.jpg</screenshot>
         </assets>
     </extension>
-</addon><addon id="plugin.program.bittenwizard" name="[COLOR lightblue]Bitten Wizard[/COLOR]" version="1.0.0" provider-name="abittencookie">
+</addon><addon id="plugin.program.bittenwizard" name="[COLOR lightblue]Bitten[/COLOR]Wizard" version="1.0.0" provider-name="abittencookie">
     <requires>
-        <import addon="xbmc.python" version="2.1.0" />
+        <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
         <import addon="script.module.six" />
         <import addon="script.kodi.android.update" optional="true" version="1.1.7" />
@@ -920,24 +920,32 @@ fix to properly parse show ID from NFO file
     <extension point="xbmc.service" library="startup.py" start="startup" />
     
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">[COLOR lightblue]Bitten Wizard[/COLOR]</summary>
-        <description lang="en">[COLOR lightblue]Bitten Wizard[/COLOR] offers many maintenance features, selective add-on data saving, and automated build installs.</description>
+        <summary lang="en">[COLOR lightblue]Bitten[/COLOR]Wizard</summary>
+        <description lang="en">[COLOR lightblue]Bitten[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://www.github.com/drinfernoo/plugin.program.openwizard/</source>
+        <source>https://www.github.com/a4k-openproject/plugin.program.openwizard/</source>
         <news>
-1.4.9
- - Fix Error Related to Log
-1.4.8
+2.0.7
+ - Fix Error when using default log settings
+2.0.6
  - Fix regex for formatting tags
  - Fix theme selection after build install
  - Fix downloading into invalid path
-1.4.7
- - Don't show Matrix builds in previous versions
-1.4.6
- - Use Speed Tester add-on from official repo
+2.0.5
+ - Add Enable All Add-ons after Build Install
+2.0.4
+ - Fix leftover broken dialogs
+2.0.3
+ - Don't show previous version builds in Matrix
+2.0.2
+ - Replace remaining occurences of LOGNOTICE
+2.0.1
+ - Add attribution to @slamious
+2.0.0
+ - Initial Matrix support
 1.4.5
- - Fix bugs with unintended files being cleared
+ - Fix bugs with unintended files being cleared`
 1.4.4
  - Transfer ownership
 1.4.3
