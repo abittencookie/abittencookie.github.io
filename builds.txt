@@ -4,7 +4,7 @@ zip="https://github.com/abittencookie/abittencookie.github.io/blob/master/plugin
 
 name="bittenwizard"
 version="1.0.0"
-url="https://www.dropbox.com/s/znenefz22di3cky/bittenbuild-1.0.0.zip?dl=0"
+url="https://www.dropbox.com/s/3p4wfb44vjweyad/bittenbuild-1.0.0.zip?dl=0"
 minor="http://"
 gui="https://www.dropbox.com/s/ozrukln6d1t1q8x/bittenbuild_guisettings.zip?dl=0"
 kodi="19.4"
