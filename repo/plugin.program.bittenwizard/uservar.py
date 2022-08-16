@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR lightblue][B]Bitten[/B][/COLOR]Wizard'
 BUILDERNAME = 'abittencookie'
 EXCLUDES = [ADDON_ID, 'repository.bittenwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://www.dropbox.com/s/bo30uzs6mub6rrh/builds.txt?dl=0'
+BUILDFILE = 'https://github.com/abittencookie/abittencookie.github.io/blob/master/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
